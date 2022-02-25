@@ -1,0 +1,705 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A persuasive from the creatures to a perfect resignation of the will to God's. By B. Pratt, of Merton Coll. Oxon.</title>
+            <author>Pratt, Benjamin, 1676 or 7-1715.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 63 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55635</idno>
+            <idno type="STC">Wing P3178B</idno>
+            <idno type="STC">ESTC R218996</idno>
+            <idno type="EEBO-CITATION">99830538</idno>
+            <idno type="PROQUEST">99830538</idno>
+            <idno type="VID">34990</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34990)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2075:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A persuasive from the creatures to a perfect resignation of the will to God's. By B. Pratt, of Merton Coll. Oxon.</title>
+                  <author>Pratt, Benjamin, 1676 or 7-1715.</author>
+                  <author>Drapentier, Jan, fl. 1674-1713, engraver.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition corrected. To which is added an appendix.</edition>
+               </editionStmt>
+               <extent>[10], 97, [1], 5, [11] p., [1] leaf of plates   </extent>
+               <publicationStmt>
+                  <publisher>printed for G. Conyers at the Golden Ring, W. Newton over against Saint Bartholomew's-Close-Gate, and J. Pero at the White Swan, in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With an additional title page, engraved: Persuasives from an inordinate love of ye world to God. By Mr  B.P. 1695; engraving signed: I. Drapentier [illegible].</note>
+                  <note>Caption title on p. 1: Persuasives from the creature to a perfect resignation of the will to God's.</note>
+                  <note>Includes two errata pages and postscripts.</note>
+                  <note>Leaf A5 torn, slightly affecting text.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:34990:1"/>
+            <p>
+               <figure>
+                  <head>Pſal: 139.14 <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </head>
+                  <q>Tranſported with THY Excellence!—</q>
+                  <p>Abi Vanitas!</p>
+                  <p>Perſuaſives from an inordinate Love of y<hi rend="sup">e</hi> World to GOD. By M<hi rend="sup">r</hi> BP. 1695.</p>
+                  <p>Pratt Invent: I. Drapentier <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:34990:1"/>
+            <p>A Perſuaſive FROM THE CREATURES, To a Perfect RESIGNATION OF THE WILL TO GOD's.</p>
+            <p>By <hi>B. Pratt,</hi> of <hi>Merton Coll. Oxon.</hi>
+            </p>
+            <q>An Inordinate Love of this cheating World, is attended with only Superficial Joys, which end in Pain and Repentance. <bibl>
+                  <hi>Senec. de Beat.</hi>
+               </bibl>
+            </q>
+            <q>Nothing but an entire Conſignation to the Dic<g ref="char:EOLhyphen"/>tates of Right REASON, can make you TRULY Happy. <bibl>
+                  <hi>idem Alib.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>The Second Edition Corrected.</hi> To which is added an APPENDIX.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>G. Conyers</hi> at the <hi>Golden Ring, W. Newton</hi> overagainſt Saint <hi>Bartholomew's-Cloſe-Gate,</hi> and <hi>J. Pero</hi> at the <hi>White Swan,</hi> in <hi>Little-Britain,</hi> 1695.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34990:2"/>
+            <pb facs="tcp:34990:2"/>
+            <head>TO THE Right Honourable The LADY <hi>M. H.</hi> OF <hi>NORFOLK.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THE Honour I re<g ref="char:EOLhyphen"/>ceive by Acquain<g ref="char:EOLhyphen"/>tance with YOU, and the Illuſtrious Vertues with which You
+<pb facs="tcp:34990:3"/>are, I know [Beyond a Stranger's Credit] ſo Extra<g ref="char:EOLhyphen"/>ordinarily Bleſs'd, has [ſince the Departure of that Friend [in Obedience to whom this <hi>Trifle</hi> was at firſt deſign'd] peculiarly obliged me to pre<g ref="char:EOLhyphen"/>ſent it at Your Ladyſhip's Feet.</p>
+            <p>I am ſorry, for Your ſake, it is not as I could wiſh it Compos'd, [I have Higher Thoughts on this Subject, which I cannot yet expreſs.] But Your Honour will conſider, 'tis a Work of YOUTH; and for ſeveral Private Reaſons by none Review'd
+<pb facs="tcp:34990:3"/>till it paſs'd from the Preſs.</p>
+            <p>I am not for Tedious <hi>DEDICATIONS;</hi> in them I had rather ſpeak Leſs than More than the Ingenuous Modeſty of ſuch Perſons as Your LADYSHIP will permit. [For You are above the want of an EN<g ref="char:EOLhyphen"/>COMIUM, and I may be eaſily thought guilty of that Flattery I hate,] ſo I would conclude [with my Hearty PRAYERS to <hi>Almighty GOD,</hi> that it may pleaſe Him to be ſtill Your GUIDE,
+<pb facs="tcp:34990:4"/>till You arrive at Eternal Reſt.]</p>
+            <closer>
+               <signed>
+                  <hi>Your Ladyſhip's And</hi> RELATIONS <hi>Moſt Obedient, Humble Servant,</hi> B. P.</signed>
+               <dateline>
+                  <hi>Kenſing<g ref="char:EOLhyphen"/>ton,</hi> 
+                  <date>Jan. 12. 1694/5.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34990:4"/>
+            <head>To the Worthy READER.</head>
+            <p>THE ſubſequent <hi>Intro<g ref="char:EOLhyphen"/>duction</hi> is an Apology ſo ſufficient for this ſlender Work, that a Formal <hi>Preface</hi> would, I think, have b en al<g ref="char:EOLhyphen"/>moſt Superfluous here, [though by Cuſtom you ſhould expect it.] But I have further to ſay,</p>
+            <p>That, I would ask your friendly Cenſure hereon. For, I preſume, a Piece is then
+<pb facs="tcp:34990:5"/>Accompliſh'd, when it chiefly anſwers the <g ref="char:V">Ʋ</g>nderſtanding of the Perſon for whom 'twas par<g ref="char:EOLhyphen"/>ticularly deſign'd. — This Work was at first compos'd, not to Teach the Learned, but for <hi>Philomuſe</hi> [though Great, B<g ref="char:V">Ʋ</g>T Qualify'd according to IT's Language and Sence] my Intimate Friend, to whom I might always be Free: ſo that if I Riſe and Fall, nay, often change the Style of, and aſcend not too High in this Divine Diſcourſe, the Reaſons which cauſe will excuſe —</p>
+            <p>That the Largeneſs of Sen<g ref="char:EOLhyphen"/>tences, and ſeeming Excurſions of the Book, must be imputed to the Vigour of that <g ref="char:V">Ʋ</g>nruly
+<pb facs="tcp:34990:5"/>Flame which incens'd me to This.</p>
+            <p>That I could not but ſome<g ref="char:EOLhyphen"/>times Expreſs my ſelf in the ſence of ſome Authors I have MIX'D myſelf with.</p>
+            <p>That I have follow'd the Me<g ref="char:EOLhyphen"/>thod of Sir <hi>Roger L'Eſtrange</hi>'s <hi>Seneca,</hi> in my Tranſlation of thoſe ſelect Scraps of St. <hi>Au<g ref="char:EOLhyphen"/>ſtin</hi> which end the Advice:</p>
+            <closer>
+               <signed>And, That I am truly <hi>Yours,</hi> B. P.</signed>
+               <dateline>
+                  <hi>M. Coll.</hi> 
+                  <date>Nov. <hi>11. 1694.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:34990:6"/>
+            <head>To the Ingenious Mr. <hi>P.</hi> On Information of his De<g ref="char:EOLhyphen"/>ſign to Attempt [<hi>Perſua<g ref="char:EOLhyphen"/>ſives to God,</hi> &amp;c.]</head>
+            <l>SUch a Diſcourſe from Thee!</l>
+            <l>Proceed, Aſpiring Youth! Be Free,</l>
+            <l>Accept the Dictates of the DEITY.</l>
+            <l>Think, in Old Age, and when Thou canst not Taſte</l>
+            <l>A Mortal Joy, about to Breathe thy Last,</l>
+            <l>What Conſolation, what Celeſtial Bliſs,</l>
+            <l>Such Juvenile Performances as THIS</l>
+            <l>Will then afford thy Soul!</l>
+            <closer>
+               <signed>
+                  <hi>J. M.</hi> B. D.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34990:6"/>
+            <head>Perſuaſives FROM THE CREATURE To a Perfect RESIGNATION Of the WILL to <hi>GOD</hi>'s.</head>
+            <opener>
+               <salute>Deareſt <hi>Philomuſe!</hi>
+               </salute>
+            </opener>
+            <p>COnquer'd by your fre<g ref="char:EOLhyphen"/>quent Importunities, at laſt I'm Reſolv'd, and you've a Preſent of my Attempts, retarded till now,
+<pb n="2" facs="tcp:34990:7"/>not through want of Rea<g ref="char:EOLhyphen"/>ſons to Pleaſe you, you have ſo much Oblig'd Me, that I am proud to tell the World what you, I hope, are ſure of, That there is not any Earthly Comfort more af<g ref="char:EOLhyphen"/>fects me, than Deſires that aſpire to Serve <hi>Philomuſe,</hi> but a ſenſe of my own In<g ref="char:EOLhyphen"/>capacity to write Worthily on a Subject ſo Noble as THIS.</p>
+            <p>So that from admiring be<g ref="char:EOLhyphen"/>fore you had not my Pre<g ref="char:EOLhyphen"/>tences Sooner, you may de<g ref="char:EOLhyphen"/>ſcend to wonder Now, in ſo Nice an Age as This, I dare thus be Rude.</p>
+            <pb n="3" facs="tcp:34990:7"/>
+            <p>But I would tell you, Tho' for your ſake only I could endure to be in Print, af<g ref="char:EOLhyphen"/>ter long Deliberation, I be<g ref="char:EOLhyphen"/>lieve, That ſince an Occa<g ref="char:EOLhyphen"/>ſion has happen'd which juſtly requires this Diſcourſe from my Hands, particu<g ref="char:EOLhyphen"/>larly 'tis my Duty, [where<g ref="char:EOLhyphen"/>as beſides I have been all along Bleſs'd with Extraor<g ref="char:EOLhyphen"/>dinary Favours from the Di<g ref="char:EOLhyphen"/>vine Goodneſs] I proſecute that Juſt Thought firſt ſtart<g ref="char:EOLhyphen"/>ed in my Mind, then Back'd on by your Pious Entreaty.</p>
+            <p>I think I ſhall not be ſo vain to value the Cenſures of All Men; though indeed, <hi>Philomuſe,</hi> at firſt I fear'd,
+<pb n="4" facs="tcp:34990:8"/>for me not in Orders, and ſo Young, to pretend to This — 'twas Bold.</p>
+            <p>But notwithſtanding I conſider'd I am not one of, or yet deſign for the Clergy, and that ALL I now write may [even to Me] when I'm capable of Better, ap<g ref="char:EOLhyphen"/>pear a Mean Performance, I found not but the precedent Incentives to This, were ſtill Motives to follow the Deſign. For,</p>
+            <p>Since Inanimate Beings (ac<g ref="char:EOLhyphen"/>cording to the <hi>Pſalmiſt,</hi> &amp;c.) ſhould Praiſe God,<note place="margin">Pſal. 148.</note> and the Age we war in; <hi>Philomuſe</hi> and my Self cannot be too much reminded of our great<g ref="char:EOLhyphen"/>eſt
+<pb n="5" facs="tcp:34990:8"/>Concerns. It again oc<g ref="char:EOLhyphen"/>curs, That I fed at the<note n="*" place="margin">Univerſ.</note> 
+               <hi>Head</hi> of GOD's Streams, and above the Claſſes of Mean<g ref="char:EOLhyphen"/>eſt Things, ſhould immedi<g ref="char:EOLhyphen"/>ately (for I know not when my Flight will be) do ſome<g ref="char:EOLhyphen"/>thing for GOD our Father in this kind, eſpecially to it mov'd by an Uncommon (methinks) Impulſe, atten<g ref="char:EOLhyphen"/>ded on by Convenient Time and Place, be it only fit for ſuch as I [not yet fully con<g ref="char:EOLhyphen"/>firm'd in a Habit of Inordi<g ref="char:EOLhyphen"/>nate Love.]</p>
+            <p>But I wave further Apolo<g ref="char:EOLhyphen"/>gies for a Deſign, I hope, will Excuſe it ſelf, (though I might further tell Thoſe
+<pb n="6" facs="tcp:34990:9"/>that argue againſt the Need of it, The large Diſcourſes on this Subject, long ſince extant, That ALL Men ſhould employ their Time not as it pleaſes Others, but their own Genius to a good End. — And becauſe ſome have been Zealous on a Subject for <hi>GOD,</hi> is not a Reaſon ſufficient others ſhould deſiſt from the ſame. The Almighty <hi>GOD</hi> (whoſe Glory in all our Actions we ſhould aim to Celebrate) is ſo charmingly Excellent (e<g ref="char:EOLhyphen"/>ven to us) when conſider'd, as diſſolves the Proudeſt of his Creatures into a Regret and<note n="*" place="margin">Beyond them<g ref="char:EOLhyphen"/>ſelves.</note> Reſolutions, makes
+<pb n="7" facs="tcp:34990:9"/>them, when loſt in Admira<g ref="char:EOLhyphen"/>tion of his Wiſe Diſpenſa<g ref="char:EOLhyphen"/>tions, not only exclaim with the Apoſtle, <hi>O!</hi>
+               <note place="margin">Rom. 11.33.</note> 
+               <hi>the Depth of the Riches!</hi> — with the Pſalmiſt, <hi>Oh!</hi>
+               <note place="margin">Pſal. 107. <hi>v.</hi> 8, 15, 21, 31. Pſal. 42.1. &amp; 119.5. &amp; 150.6.</note> 
+               <hi>that men would therefore praiſe the Lord!</hi> — but exſtaſy'd, to <hi>pant like the Hart,</hi> for numberleſs Com<g ref="char:EOLhyphen"/>panions, to leave that fallen World, to know to joyn with them in Eternal <hi>Hale<g ref="char:EOLhyphen"/>lujah's.</hi>
+            </p>
+            <p>To wave, I ſay,<note place="margin">Sect. <hi>1.</hi>
+               </note> further Excuſes: Though I attempt <hi>Perſuaſives from the Creature,</hi> I mean not, we ſhould not uſe theſe Creatures of <hi>GOD</hi> at all. I am not ſuch a <hi>Stoick,</hi>
+               <pb n="8" facs="tcp:34990:10"/>to ſuppoſe you can or muſt wholly contemn theſe Crea<g ref="char:EOLhyphen"/>ted Goods. Nor believe I, thoſe things are only to be us'd which we abſolutely need: The Man who can ſo Command himſelf, is his own Maſter indeed, but no better than his Fellow-Chri<g ref="char:EOLhyphen"/>ſtians. <hi>GOD</hi> ſaw that ALL his Creation was good in themſelves; Dares Man then think them not? — Why ſhould we abſtain?<note place="margin">1 Cor. 10.23, 26. Rom. 14.14.</note> 
+               <hi>ALL things are lawful.</hi>—Were they not, Fleſh and Blood would preſume themſelves worſe then (Pardon the Compari<g ref="char:EOLhyphen"/>ſon) Tantaliz'd, ſhow'd Things endow'd with Appe<g ref="char:EOLhyphen"/>tites
+<pb n="9" facs="tcp:34990:10"/>for [unleſs rid of them by Habits of Abſtinence] and Powers to reach them, then puniſh'd by the Indulgent Father of the Univerſe!</p>
+            <p>The Moſt Wiſe <hi>GOD</hi> made ALL Things (as was told you) <hi>GOOD in their kinds to be us'd,</hi>
+               <note place="margin">Heb. 10.24.</note> that in the Enjoyment we might more readily be tranſported with the Love of Him we cannot duly Admire. But all Things are not Expedient; for the Devil has help'd us to find out <hi>many Inventions,</hi>
+               <note place="margin">1 Cor. 10.23. 2 Cor. —</note> (yet if we can uſe them to the End they were by <hi>GOD</hi> de<g ref="char:EOLhyphen"/>ſign'd, we are not hurt.)</p>
+            <pb n="10" facs="tcp:34990:11"/>
+            <p>I intend not to Argue for the Vices of the Times: Lo<g ref="char:EOLhyphen"/>vers of them, are Men ſick, or they would not, like Wo<g ref="char:EOLhyphen"/>men with Child, Long, for their Ruine. <hi>God</hi> no more created Appetites for thoſe (as all that conſider the <hi>Di<g ref="char:EOLhyphen"/>vinity,</hi> will affirm,) than He did Death; and yet you ſee, <hi>Philomuſe,</hi> we [free to act] have took care to bring them on us.</p>
+            <p>If 'tis ask'd, Why He ſuf<g ref="char:EOLhyphen"/>fers them? — For the Tryal of us, that we may glory in the Conqueſt,<note place="margin">Jam. 1.23. <hi>ibid. v.</hi> 13, 14.</note> when our Souls ſhall be free.</p>
+            <pb n="11" facs="tcp:34990:11"/>
+            <p>No, <hi>Philomuſe,</hi>
+               <note place="margin">Sect. <hi>2.</hi>
+               </note> my Deſign is not, you ſhould not rightly uſe <hi>God's</hi> good Creation; but I would not you abuſe that, or wrong your ſelf; I would not have you borne down with the Thoughts or Enjoyments of the <hi>Creatures;</hi> I would not have you loſe your ſelf in the Love of them, or reſt on what will fall and deceive you.</p>
+            <p>By the <hi>Creatures,</hi> I mean, ALL <hi>GOD</hi>'s Works, with their admirable Concomi<g ref="char:EOLhyphen"/>tants, Learning, Arts, Wits, Good Nature, <hi>&amp;c.</hi> For they are <hi>all</hi> Rays of the Divine Perfection, and come from
+<pb n="12" facs="tcp:34990:12"/>Him; —and you ſhould uſe them not as ſo many Fetters to enſlave you to them, but as Stars to lead you to the Deity.</p>
+            <p>Thus (but let not the Witty think I only diſſuade Others, like the Tailleſs Fox, from what, perhaps, I've loſt my Self, that's too impious —) when you ſee a Beauty, with all the Charms a Mor<g ref="char:EOLhyphen"/>tal can have, you ſhould conclude, That (as a certain Saint did, I remember I have read of,<note place="margin">In <hi>Anthel.</hi> Hiſt. <hi>p.</hi> &amp;c.</note> who Dining with a Perſon of Honour at Table with his Lady, look'd ſo in<g ref="char:EOLhyphen"/>tently on her Incomparable Form, that nothing could
+<pb n="13" facs="tcp:34990:12"/>perſuade her Lord to Admi<g ref="char:EOLhyphen"/>ration, but Knowledge of his Age [a Preventive, ſure, againſt his committing A<g ref="char:EOLhyphen"/>dultery in's Heart] why he look'd ſo wiſhfully on her. He ask'd? The good Old Father, with exalted Eyes, <hi>Lord!</hi>
+               <note place="margin">Pſal. 139.13.</note> ſays he) <hi>if a Creature is ſo Fine, what art THO<g ref="char:V">Ʋ</g> Thy Self! or we ſhall be, when at the Reſurrection!</hi> —But no further.</p>
+            <p>All the Oriental Luſtres of the Richeſt Gemms; all the Inchanting Beauties of Exterior Shapes, the Exqui<g ref="char:EOLhyphen"/>ſiteneſs of Figures, the Love<g ref="char:EOLhyphen"/>lyneſs of Colours, the Har<g ref="char:EOLhyphen"/>mony of Sounds, the Light
+<pb n="14" facs="tcp:34990:13"/>and Clarity of the Enliven<g ref="char:EOLhyphen"/>ing Sun; the Raviſhing Form and Order of All, pro<g ref="char:EOLhyphen"/>ceed from <hi>GOD.</hi> All the Heroick Vertues of the Bra<g ref="char:EOLhyphen"/>veſt Minds, with the Purity and Quickneſs of the High<g ref="char:EOLhyphen"/>eſt Intellects,<note place="margin">Pſal. 100.3</note> are <hi>all</hi> (as Sir <hi>Owen Feltham</hi> ſomewhere ſays) but Emanations from the Supreme Deity, and were by it deſign'd not to enſlave and detain our Paſſions, but to Refine and Exalt our Con<g ref="char:EOLhyphen"/>ceptions; to perſuade us there is certainly in <hi>GOD</hi> much more than we can ei<g ref="char:EOLhyphen"/>ther ſee or comprehend: And therefore the Seraphick Mr. <hi>Boyle</hi> aſſures you, That
+<pb n="15" facs="tcp:34990:13"/>(to uſe his own Ingenious Expreſſion) <q>If you'd make the righteſt Uſe of Fading Beauties,<note place="margin">Ser. Love.</note> 
+                  <hi>&amp;c.</hi> you muſt (as was hinted before) conſi<g ref="char:EOLhyphen"/>der GOD and Them, as you were wont to do your Miſtreſs's Picture and its Cryſtal Cover; where, tho' that Native Glaſs were pure and lovely, and very richly Edg'd; yet to gaze on it, was not the chiefeſt Buſineſs of your Eye, nor did you in it terminate your Sight, but greedily look thorough and beyond it, upon the Adored Image that ſolid Veil betray'd.</q>
+            </p>
+            <pb n="16" facs="tcp:34990:14"/>
+            <p>I cannot<note n="(a)" place="bottom">Non poſſum dicere quia nec videre poſſum, ta<g ref="char:EOLhyphen"/>men aliquid non impudentèr dice qui ex ſcripturis dice. <hi>Aug. Ser.</hi> &amp;c.</note> here attempt Deſcriptions on one Ray of the Superlative Excellence;<note place="margin">Sect. <hi>4.</hi>
+               </note> — my weak Eyes are far more able to gaze on the Meridian Sun, than they are on a Glympſe of His Super<g ref="char:EOLhyphen"/>eminent Beauty, [a<note n="(b)" place="bottom">The ſight of HIM would let in Joys, and then create Deſires too mighty for Mortality to bear. The raviſh'd Soul, if ſhewn ſuch Excel<g ref="char:EOLhyphen"/>lence as This, forthwith would hate, ſo eagerly ſhe'd break thoſe Leaſhes that confin'd her to the Body, ſo prevent her Flight to that Tranſporting Good ſhe wiſh'd to be united with. And there<g ref="char:EOLhyphen"/>fore GOD tells <hi>Moſes</hi> (when he importun'd Him for a Glance of what he knew was Inconceivable) he could not ſee his Face: For, <hi>none could ſee his Face and live,</hi> Exod. 33.20.</note> Beau<g ref="char:EOLhyphen"/>ty ſo vaſtly Tranſporting,
+<pb n="17" facs="tcp:34990:14"/>that it makes the pretty Che<g ref="char:EOLhyphen"/>rubs,<note place="margin">Iſa. 6.2.</note> 
+               <hi>&amp;c.</hi> veil theirs in a Holy Place. His makes Heaven!] Nor ſhall I now offer Taſtes of that Milk and Honey which flow in the Land of <hi>Canaan.</hi> Thoſe Pledges of a future Happy Eternity, which God vouch<g ref="char:EOLhyphen"/>ſafes to them in this Veil of Tears, who wholly reſign to Him, the Pleaſures of their Reatifick State you ſhall gueſs anon.</p>
+            <p>I ſhould now tell you,<note place="margin">Sect. <hi>5.</hi>
+               </note> as a <hi>Perſuaſive from the Crea<g ref="char:EOLhyphen"/>ture,</hi> That 'tis as Reaſonable, as I ſhall prove it Neceſſary, we ſet not our Affections too
+<pb n="18" facs="tcp:34990:15"/>much on Things Below; but make the Beauty of <hi>God</hi>'s Creatures [what I told you they were chiefly deſign'd for] Prevailing Incentives to the Love of Him. For the Almighty <hi>God,</hi> that Supreme <hi>Ens</hi> and Wiſdom it ſelf, with whom is <hi>fullneſs of Joy,</hi>
+               <note place="margin">1 Cor. 2.9.</note> and <hi>at whoſe Right-hand are Plea<g ref="char:EOLhyphen"/>ſures for evermore,</hi>
+               <note place="margin">Heb.—.</note> made us to be ſupremely Happy, People for Himſelf. And if we will not make uſe of thoſe excel<g ref="char:EOLhyphen"/>lent <hi>Means</hi> He has been pleas'd to offer,<note place="margin">Heb. 4.1. Iſa. 66.24.</note> that we may be ſo, an Eternity of Repentance will not reconcile us to the Heaven we loſe, when this World is no more.</p>
+            <pb n="19" facs="tcp:34990:15"/>
+            <p>But to haſten from ſo dreadful a Conſequence of Diſobedience to the Divine Will,<note place="margin">Sect. <hi>6.</hi>
+               </note> that you may be more willingly attracted, <hi>Philo<g ref="char:EOLhyphen"/>muſe,</hi> to your own Salvation, conſider, the Mercy of <hi>God,</hi> who not only deſign'd theſe Terreſtrial Beauties, as Lad<g ref="char:EOLhyphen"/>ders to exalt you to your pro<g ref="char:EOLhyphen"/>per Center of Content,<note place="margin">Pſal. 119. Iſa. 65.1, 2, 3.</note> but to demonſtrate further, That He did not only at firſt intend, but ſtill condeſcends to de<g ref="char:EOLhyphen"/>ſire you ſhould be Happy for ever with him: He has withal made ALL his Crea<g ref="char:EOLhyphen"/>tion, in their fulleſt Enjoy<g ref="char:EOLhyphen"/>ment, utterly unable to ſa<g ref="char:EOLhyphen"/>tisfie
+<pb n="20" facs="tcp:34990:16"/>the Soul of Man, that ſo you might never reſt till to that Center you arrive.</p>
+            <p>[And to encourage us on our Way,<note place="margin">Pſ. 31.21. Iſa. 63.3, <hi>&amp;c.</hi>
+               </note> He<note n="(a)" place="bottom">God's Grief at the Sinner is ſuch, as pleas'd him to offer His only Son a Sacrifice for Man's Salvation; which, without producing the leaſt Diſcompoſure, cauſes Effects of the moſt ſenſible Pity.</note> Grieves when we ſlip, raiſes us by Stratagems of Mercy when we fall, lights us by his Word, diſſembles Anger when we wilfully Err,<note place="margin">Pſ. 30.5, Eph. 4.30. Pſ. 86.15.</note> leads us with that Hand might have ſtruck us in Hell; and when forc'd [to prevent our im<g ref="char:EOLhyphen"/>mediate Ruine] corrects us with ſo Paternal a Concern,
+<pb n="21" facs="tcp:34990:16"/>as would break our Hearts, might we know.</p>
+            <p>The <hi>Royal Pſalmiſt,</hi> after deep Contemplation of this, in an <hi>Epiphonema,</hi> patheti<g ref="char:EOLhyphen"/>cally exclaims, <hi>Lord!</hi>
+               <note place="margin">Pſ. 8.4.</note> 
+               <hi>what is Man, that</hi> Thou <hi>art ſo mindful of him? or the Sons of Men, that</hi> Thou <hi>regardest them?</hi> Surely 'tis becauſe GOD is the LORD, and <hi>changes not,</hi> that we are not rather conſumed.— <hi>O!</hi>
+               <note place="margin">Mal. 3.6. Pſ. 19.14, 15. &amp; 107. <hi>from v.</hi> 1. <hi>to the end.</hi> Lam. 3.22. Pſ. 18.50. &amp; 89.5. <hi>ibid.</hi> 9. — &amp; 34.3. &amp; 40.6. &amp; 66. —</note> 
+               <hi>that therefore Men would praiſe the</hi> Lord <hi>for his Goodneſs, and declare the Wonders that</hi> He <hi>does for the Children of Men! O Lord! the very Heavens ſhall praiſe Thy Wondrous Works.</hi> (For) <hi>O LORD
+<pb n="22" facs="tcp:34990:17"/>GOD of HOSTS! who is like unto THEE?]</hi>
+            </p>
+            <p>Now,<note place="margin">Sect. <hi>7.</hi>
+               </note> this Diſability of the Creatures for true Satiſ<g ref="char:EOLhyphen"/>faction, with that ſad Anxi<g ref="char:EOLhyphen"/>ety that attends their Enjoy<g ref="char:EOLhyphen"/>ment, though a Subject (as others) has been before diſ<g ref="char:EOLhyphen"/>courſed on, ſhall, ſince ſtill I ſee we diſquiet our ſelves in vain,<note place="margin">Pſ. 39.7.</note> by this Mite I humbly caſt [as <hi>Perſuaſives from the Creature]</hi> be fully diſplay'd.</p>
+            <p>I call each Exiſtence un<g ref="char:EOLhyphen"/>der the Sun, VANITY; for, its Fruition diſappoints, and Reſults cheats.</p>
+            <pb n="23" facs="tcp:34990:17"/>
+            <p>To confirm you in which, <hi>Solomon, Homo</hi> (as <hi>Victo<g ref="char:EOLhyphen"/>rinus</hi> ſtyles him) <hi>Homi<g ref="char:EOLhyphen"/>nem Excedens,</hi> the Wiſeſt Man that was, who by a<note n="*" place="margin">As the word in the Origi<g ref="char:EOLhyphen"/>nal ſigni<g ref="char:EOLhyphen"/>fies, <hi>Ec<g ref="char:EOLhyphen"/>cleſ.</hi> 1.3. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> chap. <hi>ibid.</hi> ver. 12, 13, 14, 15, 16, 17, 18. chap. 2. ver. 10, 11.</note> 
+               <hi>Sedulous Search,</hi> and <hi>Prac<g ref="char:EOLhyphen"/>tick Experience</hi> travers'd the World, neither wanted nor ſpar'd Means to ranſack <hi>all,</hi> in hope of Happineſs Below, with Me impartially con<g ref="char:EOLhyphen"/>ſents.</p>
+            <p>In diſplaying this <hi>Vanity of Vanities,</hi> I ſhall diſſect its ſeveral Parts, and ac<g ref="char:EOLhyphen"/>cordingly treat; that on this <hi>Sea of Trouble, Philomuſe,</hi>
+               <note place="margin">Mat. 11.28.</note> you may leave <hi>God</hi> to ſteer, who will bring you to the Haven of Eternal Reſt.</p>
+            <pb n="24" facs="tcp:34990:18"/>
+            <p>
+               <hi>Man</hi> then,<note place="margin">Sect. <hi>8.</hi>
+               </note> the LORD of the <hi>World,</hi> is, [by Nature, ſince the Fall, ſo unworthy our inordinate Love, that we <hi>but</hi> fling away our Time, to <hi>think</hi> on Him, unleſs with Re<g ref="char:EOLhyphen"/>ſolution only to be Enamor'd of God, or to Beware of Him] when an Infant, like Wax, to be influenc'd by every Stamp of Vice: He walks in a vain Shadow, and diſ<g ref="char:EOLhyphen"/>quiets himſelf in vain; is as inconſtant as the Wind, and varies with every airy Noiſe:<note place="margin">Pſ. 39.13. Jer. 4.22. Eccluſ. 9.14, 15, 16, <hi>&amp;c.</hi> 1 Cor. 1.21.</note> His pureſt Part's diſturb'd by's Body's Ills; and a ſad Dream, or cloudy Day, can change this wretched <hi>Creature</hi> into other Thoughts:
+<pb n="25" facs="tcp:34990:18"/>An idle Story told him, makes him part with dear<g ref="char:EOLhyphen"/>eſt Friends, and inconſide<g ref="char:EOLhyphen"/>rately to wiſh their Death; nor can he be perſuaded (whatſoe'er they are) but they <hi>must</hi> merit that!</p>
+            <p>How ardently we love ſome common Goods, a Fit of Choler makes us ever hate? Our own Miſtakes makes o<g ref="char:EOLhyphen"/>thers bad with us: So eaſily is Reputation loſt!</p>
+            <p>A Frown, a ſlip o' the Tongue, or ſome ſuch No<g ref="char:EOLhyphen"/>thing, makes us cancel all the Bonds of Secrecy and Truſt, and enter into Leagues with Enemies, not ended e'er they're broke! Our
+<pb n="26" facs="tcp:34990:19"/>Favourites do, with our Pla<g ref="char:EOLhyphen"/>ces, change; and we lov'd that Before, which makes us ſick to Day!</p>
+            <p>Thus is the Work of Hea<g ref="char:EOLhyphen"/>ven (to ſpeak in general) become (though not their Scorn [for they're All-good]) its Pity too, who ſo reſents our Beſt Perfor<g ref="char:EOLhyphen"/>mances Below, as Wits of th' Age look back on theirs when School-Boys, — Novices —</p>
+            <p>Nor are we [but our Heavenly Father's <hi>Love</hi>] leſs Troubleſome to Him,<note place="margin">Sect. <hi>9.</hi>
+               </note> than to our ſelves. Cor<g ref="char:EOLhyphen"/>ruption mixes with our Pu<g ref="char:EOLhyphen"/>reſt Acts; we're ſhort in
+<pb n="27" facs="tcp:34990:19"/>paying Homage to our <hi>God,</hi> and ſin when we neglect. When Thoughts of Him [who's All-conſpicuous] we pretend, alas!<note place="margin">Eccl. 9.16, 17.</note> we cannot Think aright. — The Devil, if <hi>he</hi> offers us the Bait, we take it, though we knew the Conſequence; nay — many times prevent <hi>him</hi> by our Eagerneſs to Act.</p>
+            <p>Inclin'd to Piety, ſome<g ref="char:EOLhyphen"/>times we rudely ſeem to teach our Father what we want [as if He knew not, till we told Him our Ne<g ref="char:EOLhyphen"/>ceſſities,<note place="margin">Pſ. 56.8. &amp; 139.2, 3.</note> or when to give us what we truly need] we Clowniſhly demand what <hi>God</hi> in <hi>Mercy</hi> will not let us
+<pb n="28" facs="tcp:34990:20"/>have; and beg for preſent Vengeance on our Enemies He knows deſerves it not, or will be Penitent. How<g ref="char:EOLhyphen"/>ever — we deny'd,<note place="margin">Pſ. 53.1.</note> are ſure there is No GOD, or that regards not US.</p>
+            <p>[—But, <hi>Let me, LORD,</hi> (ſays <hi>Auſtin</hi>) <hi>wiſh for THEE alone!</hi>
+               <note place="margin">
+                  <hi>Solil.</hi> c. 12.</note> 
+               <hi>Allure my Longings with Thy Secret Raptures from Above, thoſe Pleaſures which Thou haſt re<g ref="char:EOLhyphen"/>ſerv'd and hid, as yet, from them that Trust in THEE, that with inceſſant Pantings they may wiſh for THEE, lest th' Inward Reliſh being in<g ref="char:EOLhyphen"/>diſpos'd, may think that Bitter's Sweet!</hi>]</p>
+            <pb n="29" facs="tcp:34990:20"/>
+            <p>We Fear what we ſhould Slight, but never Value what we moſt ſhould Dread: Like Birds, falſe Men of Clouts do fright, are taken yet by the deſtroying Ginn.<note place="margin">Pſ. 139.</note> We care to act our Sins in pri<g ref="char:EOLhyphen"/>vate, out of Mortal view, regardleſs of the Heavenly Judge that ſees. We Phy<g ref="char:EOLhyphen"/>ſick our diſtemper'd Carcaſ<g ref="char:EOLhyphen"/>ſes, but mind not how our Soul's diſpos'd.</p>
+            <p>Or if we do, not with that Thoughtfulneſs we ought; or elſe, relying on our proper Strength, im<g ref="char:EOLhyphen"/>plore not Heaven's Aid. So we no ſooner got in Ver<g ref="char:EOLhyphen"/>tues Paths, are weary of
+<pb n="30" facs="tcp:34990:21"/>them quite: Or if a ſecond time, to make amends, like <hi>Jehu,</hi>
+               <note place="margin">Iſa. 64.6,</note> we attempt with ſpeed; alas! the Journey ſcarce be<g ref="char:EOLhyphen"/>gun, has tyr'd us. — We ceaſe; — but then diſ<g ref="char:EOLhyphen"/>ſatisfy'd, we force our ſelves a little forward; but with ſubtle care we ar'n't expos'd thereby.</p>
+            <p>Thus move we on a Crip<g ref="char:EOLhyphen"/>ple's pace, till unconſider'd Difficulties dark our Paths, and then, like<note n="(a)" place="bottom">An Allegorical Deſcription of the gene<g ref="char:EOLhyphen"/>ral Cauſes of <hi>Deſpair.</hi> Thoſe wretched People once miſtaken, do uſually hug their Errors, are perſuaded againſt others Expoſitions, and apply every hard Word of GOD to their own Vexa<g ref="char:EOLhyphen"/>tion, <hi>Iſa.</hi> 8.14.</note> Tra<g ref="char:EOLhyphen"/>vellers at Night, on un<g ref="char:EOLhyphen"/>known
+<pb n="31" facs="tcp:34990:21"/>Roads remote, un<g ref="char:EOLhyphen"/>able to return, or now pro<g ref="char:EOLhyphen"/>ceed, with out-ſtretch'd Arms we grope, incredulous of Night-Directors; till at laſt ſome harmleſs Thunder dying in the diſtant Skie, diſtracts our fearful Minds, and we Deſpair, when in ſome diſmal Foreſt we are loſt, or from a Precipice in mighty Waters fall.</p>
+            <p>Our Beauty and our Wiſ<g ref="char:EOLhyphen"/>dom too, are vain;<note place="margin">Sect. <hi>10.</hi>
+               </note> for they're imperfect, and will ſoon de<g ref="char:EOLhyphen"/>cay with Us they ſo adorn.<note place="margin">Pſ. 39.6, 12. Iſa. 40.6, 7. Jam. 1.10. 1 Pet. 1.24.</note> Though Caſualties ſhould ſpare us, [which they ſel<g ref="char:EOLhyphen"/>dom doe,] Age of neceſſity
+<pb n="32" facs="tcp:34990:22"/>deſtroys: Then how per<g ref="char:EOLhyphen"/>plex'd our great Admirers are? A Blow or Bruiſe on th' Head, may ſpoil the Learned'ſt Maſter in Philo<g ref="char:EOLhyphen"/>ſophy, and ſubject him to thoſe before he ſcorn'd.</p>
+            <p>Our greateſt Senſual Plea<g ref="char:EOLhyphen"/>ſures are but Vanity. Much Time we throw away in anxious Cares and Trou<g ref="char:EOLhyphen"/>bles to enjoy; and when we doe, we cannot as we would: our Torch will ſpeedily burn out, and we are vaniſh'd from our Earthly Joys:<note place="margin">
+                  <hi>Says</hi> Mar<g ref="char:EOLhyphen"/>tial, Quic<g ref="char:EOLhyphen"/>quid amas cupias non placuiſſe nimis, <hi>&amp;c.</hi>
+               </note> or elſe our jealous Mind ſug<g ref="char:EOLhyphen"/>geſts a thouſand Reaſons for our ſudden Loſs of what [poſſeſs'd of ſully] but effe<g ref="char:EOLhyphen"/>minates
+<pb n="33" facs="tcp:34990:22"/>the Efforts of the Soul.</p>
+            <p>Depriv'd of what we doated on, our Soul's unſpi<g ref="char:EOLhyphen"/>rited, and in a torpid fright we much bewail the Loſs of Satisfactions that before, by long Poſſeſſions, and a near acceſs, [like My Lord<note n="(a)" place="bottom">The <hi>Senſitive Plant</hi> in His Honour's Gar<g ref="char:EOLhyphen"/>den at <hi>Cue,</hi> near <hi>Richmond.</hi>
+               </note> 
+               <hi>Capel</hi>'s Plant] contracted all their Charms; we now, as Pictures at a diſtance ſeen, miſtake for Excellently Fine; and then 'tis long before we are our ſelves again, or reliſh other Joys.</p>
+            <p>You know, my <hi>Philomuſe,</hi>
+               <pb n="34" facs="tcp:34990:23"/>that this and more is true. [To mention, by the bye, now what may be excus'd, that pretty<note n="*" place="margin">— B.J. ad imp. (Jul <hi>4.</hi> N — <hi>92.</hi> M.ob.F. <hi>13.</hi> N— <hi>9¾.</hi> T.</note> 
+               <hi>Little Shadow</hi> (as I us'd to call it) of the Greateſt FAIR: (I mean, the Perſon ſojourned with your Friend) [a Sign but to convince that GOD was near] when with extra<g ref="char:EOLhyphen"/>vagant Affection graſp'd,<note place="margin">Marcus An<g ref="char:EOLhyphen"/>toninus di. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> prov'd ſo indeed: — 'Twas <hi>REASON</hi> hid Himſelf, and it was gone.]</p>
+            <p>And as the uſual Objects of our earthly Pleaſures are ſo Finite in their Nature,<note place="margin">Sect. <hi>11.</hi>
+               </note> they are Few; the compaſs of theſe Satisfactions is more
+<pb n="35" facs="tcp:34990:23"/>ſhort than Life; none to be had, but what before we loathed. —</p>
+            <lg>
+               <l>
+                  <hi>—Verſamur ibidem atque Lucret. inſumus uſque,</hi>
+               </l>
+               <l>
+                  <hi>Nec nova vivendo procudi<g ref="char:EOLhyphen"/>tur ulla voluptas.</hi>
+               </l>
+            </lg>
+            <p>Or thoſe we ſoon look over, and caſt by, like wither'd Flowers from our Boſoms we are weary of.</p>
+            <p>The Sacred Bonds of Friendſhip, whoſe Delights alone, even here on Earth, could they without Ceſſation be enjoy'd, might repreſent us Heaven, ſure would be declin'd by Thoughtful Men,
+<pb n="36" facs="tcp:34990:24"/>but 'tis an Exerciſe of Ver<g ref="char:EOLhyphen"/>tues.</p>
+            <p>We often love our Second Selves (our Real Friends I mean) with ſuch Sincerity and Care, that Fortune ruins Both, when ſhe ſtrikes One; — and never gives Content [whatever Good ſhe ſends] but when<note n="(a)" place="bottom">This is experienc'd in Perfect Friendſhip: Remember <hi>David,</hi> and his Concern at the dread<g ref="char:EOLhyphen"/>ful News of his Brother's Death, 1 <hi>Sam.</hi> chap. 4. from ver. 17. to the end.</note> Se<g ref="char:EOLhyphen"/>rene and Free from Jea<g ref="char:EOLhyphen"/>louſies, they are <hi>Together</hi> Bleſs'd.</p>
+            <p>Riches and Honours too are alſo vain;<note place="margin">Sect. <hi>12.</hi>
+               </note> they fail us in
+<pb n="37" facs="tcp:34990:24"/>the deepeſt Need, and can't ſecure us from the Jaws of Death, nor mighty Stings of Conſcience. —</p>
+            <lg>
+               <l>
+                  <hi>Non Domus aut fundus non Aeris Acervus &amp; Auri</hi>
+                  <note place="margin">Hor.</note>
+               </l>
+               <l>
+                  <hi>Aegroto Domini deduxit corpore Febres,</hi>
+               </l>
+               <l>
+                  <hi>Non Animo curas. —</hi>
+               </l>
+            </lg>
+            <p>If we but uſe our<note n="(a)" place="bottom">Omnis Pecunia Levis, fugax labilis, angui<g ref="char:EOLhyphen"/>larum &amp; ſerpentum inſtar Lubrica. <hi>C. Agrip.</hi>
+               </note> Wealth, immediately theyr'e gone; but if we keep them only, then we have 'em not! They're wing'd; and though a while, till they ſeduce us to Intem<g ref="char:EOLhyphen"/>perance,<note n="*" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Plat.</note> we may poſſeſs
+<pb n="38" facs="tcp:34990:25"/>them, they will flee away; and to the Care we had in getting them, add freſh and greater Troubles then.</p>
+            <p>But — I am weary of De<g ref="char:EOLhyphen"/>ſcriptions, ſuch as theſe. If, <hi>Philomuſe,</hi> you'd further be inform'd, how Vain we are, and what we Toil about, contemplate Me.</p>
+            <p>Our Life then,<note place="margin">Sect. <hi>13.</hi>
+               </note> (to con<g ref="char:EOLhyphen"/>clue <hi>Perſuaſives,</hi> That this World of GOD is vain to try our Vertue, and that we may aim at Heaven Above,) when but conſider'd, plainly does appear (as an Ingenious<note n="*" place="margin">
+                  <hi>Mr.</hi> J.D. <hi>in</hi> A — Z.</note> Author ſays) a Cheat to All Conſidering Men: And
+<pb n="39" facs="tcp:34990:25"/>yet ſuch Fools we are, we ever hope againſt Experi<g ref="char:EOLhyphen"/>ence; believe to Morrow ſure will make amends for Ye<g ref="char:EOLhyphen"/>ſterday's Misfortunes, but in vain! This Day deceives us more than thoſe be<g ref="char:EOLhyphen"/>hind, lies worſe; for whilſt it flatters us with hopes of ſome new Satisfaction, it robs us of the preſent we poſ<g ref="char:EOLhyphen"/>ſeſs'd! None therefore would live over Days are paſt, yet moſt (ſo ſilly are we) are in Expectation of new Joys from thoſe which are to come. ('Tis ſtrange! That from the Dregs of Life, we All ſhould look for Pleaſures or Contents the
+<pb n="40" facs="tcp:34990:26"/>firſt brisk Running never could produce!) Why ſhould we doat then on theſe Fal<g ref="char:EOLhyphen"/>lacies? or not immediately tranſplant our higheſt Love to GOD, by <hi>Reſignation</hi> to his Bleſſed <hi>Will?</hi> — But,</p>
+            <p>I muſt deſire you to con<g ref="char:EOLhyphen"/>clude,<note place="margin">Sect. <hi>14.</hi>
+               </note> 
+               <hi>Philomuſe,</hi> That all I have ſaid to depretiate the Creatures Worth, which is wont to inveigle the Incon<g ref="char:EOLhyphen"/>ſiderate's Affections from their proper Object, to Death, was meant rather by way of Preparative, than Motive to conduct you from the Love of them to GOD [aiming
+<pb n="41" facs="tcp:34990:26"/>(as was told you by the pre<g ref="char:EOLhyphen"/>ceding Diſcourſe) [not to Abuſe the Works of GOD, or thoſe Ingenious Beauties, ſome of which I have the the Honour to know, but] to Diſabuſe thoſe Men which doat on them to Exceſs, and rectifie their degraded Minds, that with compos'd and im<g ref="char:EOLhyphen"/>partial Thoughts they may judge of the Counſel is ad<g ref="char:EOLhyphen"/>vis'd.] For,</p>
+            <p>Though by Doating on the Creature,<note place="margin">Sect. <hi>15.</hi>
+               </note> you affront it to the degree of Sin, when you give it that Reſpect which is due unto GOD, and are accordingly puniſh'd;
+<pb n="42" facs="tcp:34990:27"/>though (I mean) you're con<g ref="char:EOLhyphen"/>vinc'd, That to neglect the Commands of GOD, is Death, I would not there<g ref="char:EOLhyphen"/>fore only you <hi>Reſign</hi> to Him; that is a greater Fault than any of the World's; for which I perſuade you to ſhun it, and will prevent you the Charms which do truly pleaſe the Sovereign Wiſdom Commands. So that were You and I, <hi>Philo<g ref="char:EOLhyphen"/>muſe</hi> to reap no Advantage from Submiſſion to <hi>Him,</hi> and <hi>God</hi> incapable [which cannot be granted] to over<g ref="char:EOLhyphen"/>rule our Wills; though we were Objects now of his Hate; we have yet reaſon
+<pb n="43" facs="tcp:34990:27"/>to Obey Him: For, 'twas HE which Made us, (<hi>not</hi> to do<note n="(a)" place="bottom">HE is above the <hi>Need</hi> of His Creatures Help.</note> Him Service: Can a Man<note n="(b)" place="bottom">— Quid enim Immortalibus atque Beatis, Gratia Noſtra queat, <hi>&amp;c. Lucret. ex Epic.</hi>
+               </note> be Profitable to <hi>GOD?</hi> but) purely out of Love, e're we were.<note place="margin">Pſ. 100.10. Job 22.2, 3. Rev. 4.10.</note> [So little could we deſerve it, that we might be Happy with HIM.</p>
+            <p>Indeed, as the <hi>Iſraelites,</hi>
+               <note place="margin">Sect. <hi>16.</hi>
+               </note> to make them reſolve on returning to their Happy Land, ſtood in need of that cruel Bondage in <hi>Egypt,</hi> we often want the harſh Uſage
+<pb n="44" facs="tcp:34990:28"/>of an afflicting World to un<g ref="char:EOLhyphen"/>deceive us in its Charms, that we may fly to God; it is not to aſſure you, we muſt therefore only aſpire to Him, [as if <hi>God</hi> needed to be recommended by his Creatures Defects! and ſo made them vain, that we might run to Him, to com<g ref="char:EOLhyphen"/>pleat the Happineſs of the Moſt Bleſſed <hi>GOD!</hi> Or, it is fit to make <hi>Him</hi> the Re<g ref="char:EOLhyphen"/>fuge of a Defeated Paſſion, whoſe Tranſcendencies en<g ref="char:EOLhyphen"/>title Him to more than the moſt Exalted and Entire! We have made our ſelves ſo frail by the Fall, that (as) the Seraphick Mr. <hi>Boyle</hi> will
+<pb n="45" facs="tcp:34990:28"/>tell you) we are unfit to procure, and ready to deſert our own Good, and neither <hi>God</hi>'s Excellence is a ſuffi<g ref="char:EOLhyphen"/>cient Motive to carry our Addreſſes to Him, nor his Poſſeſſion a compleat Tye to intercept in us all Deſigns of Revolt: And therefore, in Mercy, we are us'd as froward Children are, who (on the one ſide) when their Mouths are out of Taſte, and they refuſe what is ne<g ref="char:EOLhyphen"/>ceſſary for them, muſt not only have it offer'd, but forc'd on them, and be, as it were, made to receive it; and who (on the other ſide) muſt be reſtrain'd from Gad<g ref="char:EOLhyphen"/>ding,
+<pb n="46" facs="tcp:34990:29"/>when the Beauty of the Manſions they may live in, cannot invite their A<g ref="char:EOLhyphen"/>bode.]</p>
+            <p>The Chaſtiſement of <hi>God</hi> in this Probation-ſtate [as by all before was ſuggeſted unto you,<note place="margin">Sect. <hi>17.</hi>
+               </note> is purely deſign'd for our <hi>own Good,</hi> and is an Effect of that Mercy which endures for ever, ſo ſhould tranſport us, without more to doe, through a true ſenſe of his Super-eminent Excel<g ref="char:EOLhyphen"/>lence, to an entire Reſigna<g ref="char:EOLhyphen"/>tion to his Holy Will, [who not only <hi>Made</hi> us, and has therefore oblig'd us to Obey, (as before,) but continues
+<pb n="47" facs="tcp:34990:29"/>to Love, us, tho' <hi>His Enemies.</hi>] By whoſe generous Favours He condeſcends to aſſure He counts them none, unleſs they vanquiſh Obſtacles, as well as want Motives from us.</p>
+            <p>By <hi>Reſignation</hi>
+               <note place="margin">Sect. <hi>18.</hi>
+               </note> (to which I earneſtly perſuade you from an Inordinate Love of the Creature, which you ſee is Vain, Inconſtant, and not to be Rely'd on, Deceitful, of no Continuance, and therefore impoſſible to ſa<g ref="char:EOLhyphen"/>tisfie the Soul of Man,) I mean, a Univerſal Submiſ<g ref="char:EOLhyphen"/>ſion or Conſignation to the WILL of <hi>GOD,</hi> ſo as not only to acquieſce, with as
+<pb n="48" facs="tcp:34990:30"/>much Satisfaction as you can, under every Accident or Affliction in the World, with a ſtedfaſt Belief they proceed from that Unerring Wiſdom, and Paternal Hand, whence no Stroke lights ſooner, or falls heavier, or ſtays longer than the Occa<g ref="char:EOLhyphen"/>ſion that extorted it exacted; but to Rejoyce, and be ex<g ref="char:EOLhyphen"/>ceeding glad at ALL that Pleaſes <hi>GOD;</hi> uſing This World as not abuſing it, (that is,) living in it, as ſee<g ref="char:EOLhyphen"/>ing Him which is Inviſible.</p>
+            <p>It conſiſts not with my Degree,<note place="margin">Sect. <hi>19.</hi>
+               </note> to Philoſophize on the Nature of <hi>GOD,</hi> or from
+<pb n="49" facs="tcp:34990:30"/>thence to prove <hi>GOD</hi> is the Head-Sourſe of True Con<g ref="char:EOLhyphen"/>tent, and Man's Proper End, into whom 'till he joyns, he can never have perfect Reſt, and ſo to confirm the Poſſi<g ref="char:EOLhyphen"/>bility and Neceſſity of Re<g ref="char:EOLhyphen"/>ſigning to Him: It has been the Buſineſs of ſome former Leaves to declare it. And beſides, That this is a Life of Probation, in which we are to fight out our Salvation by the Rules of <hi>GOD,</hi> or we ſhall periſh at laſt, and have not Leaſes of our Lives, is by all of Sence moſt ſeriouſly own'd. [Let it ſuffice to ſay, in Contradiction to Un<g ref="char:EOLhyphen"/>thinking Men, That <hi>GOD</hi>
+               <pb n="50" facs="tcp:34990:31"/>is the Abſolute Firſt Being, and has therefore in his Rich Eſſence all the ſcatter'd Ex<g ref="char:EOLhyphen"/>cellencies of Inferiour Ones, in a more perfect manner than themſelves have, with ſome peculiar Excellence of His Own beſides; and is therefore to be granted the <hi>Supreme Good,</hi> if ſo <hi>He</hi> is, that ſupports himſelf on the Baſis of his Own All-ſuffi<g ref="char:EOLhyphen"/>ciency, and is therefore His Own End and Center, and is as Willing as Able to be alſo Man's. For the Na<g ref="char:EOLhyphen"/>ture of <hi>GOD</hi> involves, as in Notion and Conception, in Truth and Reality too, (as the Ingenious Mr. <hi>Norris,</hi>
+               <pb n="51" facs="tcp:34990:31"/>in his <hi>Coll. of Miſſ.</hi> p. 316. whence this Argument, in effect, is borrow'd, does af<g ref="char:EOLhyphen"/>firm at large,) Abſolute and Infinite Perfection, and con<g ref="char:EOLhyphen"/>ſequently includes a Benifi<g ref="char:EOLhyphen"/>cent and Communicative Diſpoſition; for this is a Perfection.</p>
+            <p>Nor does the Supreme Ex<g ref="char:EOLhyphen"/>cellence of Almighty <hi>GOD</hi> only evince him Communi<g ref="char:EOLhyphen"/>cative, but to be the moſt Communicative and Self-Diffuſive of All Beings: For, as all Kinds, ſo all Degrees of Excellence muſt of neceſſity be included in a Being infinitely and abſo<g ref="char:EOLhyphen"/>lutely Perfect, ſuch as <hi>GOD.</hi> Therefore, HE is not only
+<pb n="52" facs="tcp:34990:32"/>the moſt Communicative of All Beings, but will alſo communicate Himſelf in ſuch an ample Meaſure too, as per<g ref="char:EOLhyphen"/>fectly to content the moſt Aſpiring Wiſh of Man. And this Willingneſs of <hi>God,</hi> That Man ſhould partake of His Fulneſs to the higheſt degree, we are further aſſur'd of from expreſs Revelations: Firſt, By <hi>Words;</hi> Wherein He de<g ref="char:EOLhyphen"/>clares Himſelf<note n="(a)" place="bottom">
+                  <hi>As I live (ſays Almighty GOD)</hi> [when His Paternal Threats, through miſconſtruction had caus'd the fooliſh <hi>Iſraelites</hi> to deſpair of His Love] <hi>I deſire not the Death of a Sinner, but that the Wicked would turn and live: Turn you! Turn you!</hi> [How affectionately ſpoke!] <hi>from your Evil Ways, for WHY</hi> [O! moſt endearing Condeſcention, that THOU ſhouldſt <hi>Reaſon</hi> ſo with Us!] <hi>WILL you DIE, Oh! Houſe of Iſrael?</hi> Ezek. 3.11.</note> Paſſionate<g ref="char:EOLhyphen"/>ly deſirous of the Salvation
+<pb n="53" facs="tcp:34990:32"/>of Man. Secondly, By Two Signal <hi>Acts:</hi> The conſigning to the World a Copy of His Will: And, The ſending His Beloved Innocent Son from the Manſions of Inef<g ref="char:EOLhyphen"/>fible Bliſs, to ſuffer that Ig<g ref="char:EOLhyphen"/>nominious Death on the Croſs, [a vaſt Incentive to our Love of <hi>GOD:</hi> By it He revealed the ſevereſt Juſtice, and the higheſt Mercy; the greateſt Ha<g ref="char:EOLhyphen"/>tred of Sin, and moſt fervent Love to Man,] that we may again enter in, if we pleaſe, to the Joy of our <hi>LORD.</hi>]<note place="margin">Sect. <hi>20.</hi>
+               </note>
+            </p>
+            <p>I ſhould now further diſcourſe on that Super<g ref="char:EOLhyphen"/>eminent
+<pb n="54" facs="tcp:34990:33"/>Excellence of <hi>GOD</hi> I before mention'd: For [though I have already prov'd, 'Tis your beſt way to Reſign to Him, or you cannot be in perfect Peace, or ſee Him Above; and, as another Incentive to your preſent and continued Union with HIM, I have aſſur'd you, He Loves you without Ends; That our Beſt At<g ref="char:EOLhyphen"/>tempts rather need his Par<g ref="char:EOLhyphen"/>don, but cannot Profit Him, to whom we muſt ever be in debt, and after All, ſhould conclude we are <hi>unprofitable Servants,</hi> and that our Righ<g ref="char:EOLhyphen"/>teouſneſs is as <hi>filthy Rags,</hi>]<note place="margin">Iſa. 39.6.</note> I find it Needful, e're our
+<pb n="55" facs="tcp:34990:33"/>miſtaken Minds will do themſelves Right: For, not the Knowledge only of our Exemption from Miſery, by this happy Compliance, will ſufficiently attract our Croſs<g ref="char:EOLhyphen"/>grain'd Wills; we muſt be often reminded, That there is in <hi>GOD</hi> what will re<g ref="char:EOLhyphen"/>pleniſh with Joys.</p>
+            <p>HE is then, that Immenſe Ocean of Over-flowing Good, that Eternal Supreme above All Vertues, that Fa<g ref="char:EOLhyphen"/>ther of Lights with whom is no <hi>Variableneſs,</hi>
+               <note place="margin">Jam. 1.17.</note> neither Sha<g ref="char:EOLhyphen"/>dow of Changing, whom the Moſt Dignify'd and Senſible Beings, the Holy Hierarchy of Angels, &amp; Departed Souls,
+<pb n="56" facs="tcp:34990:34"/>who <hi>cannot Lye,</hi>
+               <note place="margin">Rev. 4.10, 11.</note> grant to be the only Juſt, and Wiſe, and Great God, is HE at whoſe Feet the Elders of Heaven, All-ſenſible of their own Un<g ref="char:EOLhyphen"/>worthineſs, compar'd with HIS (even to Them) incon<g ref="char:EOLhyphen"/>ceivable Worth, caſt their glorious Crowns, rejoycing to confeſs HE is the <hi>LORD,</hi> Eternal Maker of ALL: HE it is of whoſe marvellous Worth the Courts of <hi>Hea<g ref="char:EOLhyphen"/>ven</hi> do continually ring with Ecſtacizing Airs from the Hearts of Ten thouſand times Ten thouſand,<note place="margin">Rev. 5.11, 12.</note> and Thouſands of Thouſands of its moſt Charming Happy Choir [who for ever thus
+<pb n="57" facs="tcp:34990:34"/>delight to Celebrate their Light and Life]<note n="*" place="margin">Ch. &amp; Ser. <hi>&amp;c.</hi>
+               </note> thoſe Lovely Harmleſs Little Of<g ref="char:EOLhyphen"/>ficers of <hi>GOD,</hi> whom the Prophet ſaw as much<note n="(a)" place="bottom">They were <hi>aſham'd,</hi> at their Comparative Deformity, and therefore they are repreſented as veiling their reſplendant Faces before the Pre<g ref="char:EOLhyphen"/>ſence of the more Tranſporting GOD, <hi>Iſa.</hi> 6.2.</note> 
+               <hi>a<g ref="char:EOLhyphen"/>ſham'd</hi> as pleas'd to ſtand round the Throne of <hi>GOD,</hi> diſſolv'd with Love of <hi>Him,</hi> ſhouting out, by turns, <hi>Holy! Holy! Holy! LORD of HOSTS!</hi> do intimate, by their frequent Repetitions, their Impoſſibility of doing Juſtice to <hi>GOD;</hi> and that they can <hi>never</hi> ſatisfie them<g ref="char:EOLhyphen"/>ſelves
+<pb n="58" facs="tcp:34990:35"/>enough in ſinging Prai<g ref="char:EOLhyphen"/>ſes to HIM! <hi>HIM!</hi> who be<g ref="char:EOLhyphen"/>ſides, is (as HE calls Him<g ref="char:EOLhyphen"/>ſelf) <hi>The LORD,</hi>
+               <note place="margin">Exod. 34.6, 7.</note> 
+               <hi>the LORD GOD, Strong, Merciful and Gracious, Long-ſuffering, and Abundant in Goodneſs and Truth, keeping Mercy for Thouſands, forgiving Iniqui<g ref="char:EOLhyphen"/>ty,</hi> &amp;c. that will by no means clear the Guilty; and is ſo far beyond Deſcriptions, that the loftieſt Hyperbole's, and moſt exquiſite Figures of Rhetorick us'd by Men as well inſtructed as inflam'd and tranſported by that in<g ref="char:EOLhyphen"/>acceſſible Light where <hi>JE<g ref="char:EOLhyphen"/>HOVAH</hi> dwells, cannot arrive ſo far as I ſay, not
+<pb n="59" facs="tcp:34990:35"/>to reach but ſo much as to approach the Subject they would pretend to ſo<g ref="char:EOLhyphen"/>lemnize!</p>
+            <p>But from this ſhort Deſ<g ref="char:EOLhyphen"/>cant on the Excellence of <hi>GOD,</hi>
+               <note place="margin">Sect. <hi>21.</hi>
+               </note> as the ſtrongeſt In<g ref="char:EOLhyphen"/>centive to your Reſignation to HIM; let me now in<g ref="char:EOLhyphen"/>form you, <hi>Philomuſe,</hi> of thoſe Troubles you will be rais'd above, and the Ineſtimable Joys you will, even in this Life feel, by an entire Conſignation to that Holy WILL; only think it no Digreſſion that I tell you firſt; That, beſides a Prepa<g ref="char:EOLhyphen"/>rative, the due Contempla<g ref="char:EOLhyphen"/>tion
+<pb n="60" facs="tcp:34990:36"/>on that moſt happy Ob<g ref="char:EOLhyphen"/>ject I ventur'd to diſcourſe of above, will be to the Re<g ref="char:EOLhyphen"/>ception of thoſe unutterable Joys you may be bleſs'd with, it ſhould provoke you to a careful avoiding of <hi>all Sin.</hi>
+            </p>
+            <p>Indeed, the Heroick Hea<g ref="char:EOLhyphen"/>then could tell you,<note place="margin">Senec.</note> that, <hi>Licet ſarem Homines ignora<g ref="char:EOLhyphen"/>turos &amp; Deum ignoſciturum tamen peccare nollem ob pec<g ref="char:EOLhyphen"/>cati turpitudinem:</hi> 
+               <q>Though I were certain Men could never know, and God would furely forgive, I ſhould<note n="*" place="margin">How he hated Wil<g ref="char:EOLhyphen"/>ful Sins!</note> 
+                  <hi>ſcorn</hi> to Sin, for the Foulneſs and Diſho<g ref="char:EOLhyphen"/>neſty that attends it.</q>
+               <pb n="61" facs="tcp:34990:36"/>Doubtleſs, ſince 'tis directly contrary to the Nature of GOD, there can nothing more unfit our Intellects for Sublime Satisfaction, than the Tranſgreſſion of that Law enjoyn'd by GOD; or more Unman us, than the Commiſſion of what makes us ſo vaſtly Err from that Perfect <hi>Ens</hi> we ſhould be moſt ambitious to imitate! —<hi>Oh!</hi>
+               <note place="margin">Gen. 39.9.</note> 
+               <hi>how can I do this great Wickedneſs, and ſin against GOD?</hi> was the Juſt Que<g ref="char:EOLhyphen"/>ſtion of the Right Noble-Spirited <hi>Joſeph</hi> to his impor<g ref="char:EOLhyphen"/>tunate Miſtreſs. I obſerve, 'tis the <hi>Sin,</hi> not the <hi>Puniſh<g ref="char:EOLhyphen"/>ment</hi> he ſticks at; as one
+<pb n="62" facs="tcp:34990:37"/>that would have abominated the Crime, though there had been no Hell. And whereas, though the LORD himſelf had prepar'd the Prophet <hi>Iſaiah</hi> for that Vi<g ref="char:EOLhyphen"/>ſion wherein he was Bleſs'd (as much as Mortality would permit) with an intuitive View of the Divine Majeſty,<note place="margin">Iſa. 6. —</note> and a Hearing the Seraphick Spirits Harmonious Anthem, and thereby (though Mor<g ref="char:EOLhyphen"/>tal) he was ſo highly ſenſible of the Almighty's Worth, that he would fain have joyn'd [though he wanted Skill] in Conſort with the Heavenly Hoſt; he dar'd not, becauſe he
+<pb n="63" facs="tcp:34990:37"/>was impure; nor could he enjoy that mighty Satisfac<g ref="char:EOLhyphen"/>tion would have flow'd from thence, had he been free from Sin; but was reduc'd to exclaim, by the diſmaying ſenſe of his Diſſimilitude from Them, <hi>Wo is Me!</hi>
+               <note place="margin">Iſa. 6.5.</note> 
+               <hi>for I am undone, becauſe I am a Man of polluted Lips, and I dwell in the midst of a People of polluted Lips; for mine Eyes have ſeen the KING and LORD of HOSTS!</hi> I am led to conclude, That we muſt be as free as poſſible from wil<g ref="char:EOLhyphen"/>ful Tranſgreſſions, or we cannot enjoy the Beatifick Sight; and ſhould be terri<g ref="char:EOLhyphen"/>bly
+<pb n="64" facs="tcp:34990:38"/>afraid to preſume on pleaſing our ſelves by An<g ref="char:EOLhyphen"/>thems to God, unleſs we are firſt rightly prepar'd as HE has order'd and expects.</p>
+            <p>When you have once,<note place="margin">Sect. <hi>22.</hi>
+               </note> through a due Contempla<g ref="char:EOLhyphen"/>tion of what has been wrote, ſubmitted (as is told you) to the <hi>Divine Will,</hi> you can<g ref="char:EOLhyphen"/>not be inſnar'd by any Earth<g ref="char:EOLhyphen"/>ly Good: for you will know them well, and on their Ex<g ref="char:EOLhyphen"/>cellencies then look down with Eyes as unconcern'd as Eagles, you may fancy, caſt on ſilly Glow-worms, after they have newly gaz'd on the Meridian Sun.</p>
+            <pb n="65" facs="tcp:34990:38"/>
+            <p>You cannot Sin with Plea<g ref="char:EOLhyphen"/>ſure, <hi>Philomuſe,</hi> or Wil<g ref="char:EOLhyphen"/>fully; and therefore you'll be free from thoſe Torment<g ref="char:EOLhyphen"/>ing Stings of Conſcience trouble moſt, from ſervile fear of a Diſcovery, and in<g ref="char:EOLhyphen"/>ward mighty Shame. —</p>
+            <p>You need not dread the Horror of a Dying State, from ſad Reflexions on your vaniſh'd Days, or that you have not liv'd as <hi>GOD</hi> com<g ref="char:EOLhyphen"/>manded you: No Accidents of Providence, how dark ſo<g ref="char:EOLhyphen"/>ever, will ſurprize your Mind; nor can you be, with Reaſon, long Concern'd (or ever Diſcompos'd) for any Loſs Below.</p>
+            <pb n="66" facs="tcp:34990:39"/>
+            <p>For,<note place="margin">Sect. <hi>23.</hi>
+               </note> by this near Conjun<g ref="char:EOLhyphen"/>ction of Your WILL to <hi>GOD</hi>'s you will, in time, find it nothing, to Deny your ſelf; ſince thereby you will be wholly devoted to <hi>GOD,</hi> and perfectly cleans'd from all that baſeſt Droſs of Self<g ref="char:EOLhyphen"/>iſhneſs, or Ends with which before you were unhappily alloy'd. So that 'tis impoſ<g ref="char:EOLhyphen"/>ſible any thing ſhould hap<g ref="char:EOLhyphen"/>pen to cauſe your immoderate Grief; for you enjoy all your Deſires in General and Bulk, though not always, perhaps, in Retail. And whereas your greateſt Wiſh is, That <hi>God</hi>'s <hi>Will be done;</hi> your Aſſu<g ref="char:EOLhyphen"/>rance,
+<pb n="67" facs="tcp:34990:39"/>That 'tis HE is the Supreme and Uncontroll'd Diſpoſer of Events; does per<g ref="char:EOLhyphen"/>ſwade you, <hi>All</hi> Accidents that can fall on you, are but exact Completions of His Divine WILL, and therefore of Your's, ſo far as 'tis com<g ref="char:EOLhyphen"/>priz'd in <hi>His:</hi> And there<g ref="char:EOLhyphen"/>fore His Diſpenſations to you, are, in effect, but the Acts of your own Will, with the ſuperlative Advantage of their being directed by Him who is Wiſdome, Power and Love.</p>
+            <p>Then you'll be convinc'd,<note place="margin">Sect. <hi>24.</hi>
+               </note> That <hi>GOD</hi> is Juſt in All, and that you have reaſon to
+<pb n="68" facs="tcp:34990:40"/>Bleſs HIM, with <hi>Job.</hi> — Your Thoughts will then be ſuch as theſe;<note place="margin">Job 1.21.</note> — <hi>HE takes but His Own, and he lends us All.</hi>
+               <note place="margin">—<hi>ch.</hi> 2.10.</note> — <hi>Shall we receive Good at the Hand of GOD, and ſhall we not receive Evil?</hi> — Well!<note place="margin">1 Sam. 3.38.</note> 
+               <hi>'Tis the LORD, let Him do what ſeemeth Him good.</hi>
+               <note place="margin">Iſa. 63.9.</note> — <hi>He grieves not the Sons of Men willingly, but in all our Afflictions is HIM<g ref="char:EOLhyphen"/>SELF Afflicted!</hi> — and will give us <hi>Grace to help in time of Need.</hi>
+               <note place="margin">Heb. 4.16.</note> —However, <hi>Though HE Kill me,</hi>
+               <note place="margin">Job 13.15.</note> 
+               <hi>yet will I Trust in HIM!</hi>
+            </p>
+            <p>You will not be Con<g ref="char:EOLhyphen"/>cern'd, if you have not an immediate Return ſuitable
+<pb n="69" facs="tcp:34990:40"/>to your Prayers to <hi>GOD:</hi> You'll remember the Para<g ref="char:EOLhyphen"/>ble told by Chriſt,<note place="margin">Luk. 11. <hi>from</hi> v. 5. <hi>to</hi> v. 14.</note> — That HE is your Father, your peculiar Friend: That 'tis eaſier for an Affectionate Mother to forget her Dar<g ref="char:EOLhyphen"/>ling and Firſt-born Child, than for <hi>God</hi> to forget You: Though She ſhould, yet can<g ref="char:EOLhyphen"/>not HE, He tells you ſo.<note place="margin">Iſa. 49.15.</note> —</p>
+            <p>The Heathen <hi>Satyrist,</hi>
+               <note place="margin">Sect. <hi>25.</hi>
+               </note> by Natural Reaſon, was ſo ſure of this, that after deep Con<g ref="char:EOLhyphen"/>templation thereon, ſays<note n="*" place="margin">
+                  <hi>Juv.</hi> &amp;c.</note> he (what I would not have diſ<g ref="char:EOLhyphen"/>lik'd, for being forgot in it's proper place) —
+<pb n="70" facs="tcp:34990:41"/>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Permittes Ipſis Expendere Nu<g ref="char:EOLhyphen"/>minibus Quid</hi>
+                     </l>
+                     <l>
+                        <hi>Conveniat Nobis, Rebuſque fit utile Noſtris:</hi>
+                     </l>
+                     <l>
+                        <hi>Nam pro Jucundis <g ref="char:V">Ʋ</g>tilia queque dabunt DI,</hi>
+                     </l>
+                     <l>
+                        <hi>Charior est Illis Homo quam Sibi</hi>—&amp;c.</l>
+                  </lg>
+                  <lg>
+                     <l>Caſt All your Care upon the DEITIES,</l>
+                     <l>THEY Love us Better than we do our ſelves,</l>
+                     <l>And will, for Pleaſant things, what's fitteſt give.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>I aſcend now to that high<g ref="char:EOLhyphen"/>eſt Advantage from <hi>Reſig<g ref="char:EOLhyphen"/>nation to GOD,</hi>
+               <note place="margin">Sect. <hi>26.</hi>
+               </note> the Enjoy<g ref="char:EOLhyphen"/>ment of HIM.</p>
+            <pb n="71" facs="tcp:34990:41"/>
+            <p>But as you cannot by a Book of <hi>Anthems</hi> be juſtly enamour'd of their Harmo<g ref="char:EOLhyphen"/>nious Sound, or the Delights they can cauſe, if you are not skill'd in Muſick, or at leaſt, have not heard them ſung, it is wholly impoſſible I ſhould, by all I can ſay, let you know ſo much of thoſe inexpreſſible, exqui<g ref="char:EOLhyphen"/>ſite Pleaſures (reſulting from that Union with the GOD of Love) as will in the leaſt degree Tranſport you [as you ought] with a Deſire for <hi>Them,</hi> unleſs you were capable to Enjoy, or had be<g ref="char:EOLhyphen"/>fore Felt them.</p>
+            <pb n="72" facs="tcp:34990:42"/>
+            <p>An Illiterate Man may be<g ref="char:EOLhyphen"/>lieve, indeed, when he ſees a Fam'd Author's Learned Book, it is certainly Fine; but he is no more capable to Enjoy, (leſs, ſure, to be affected with a bare Infor<g ref="char:EOLhyphen"/>mation that the Work is Great, (a Scholar's firſt de<g ref="char:EOLhyphen"/>gree of Pleaſure there-from,) the Satisfaction it affords an Intelligent Reader) than the World is, by only All the brave Expreſſions in it, the Comforts which proceed from the Preſence of GOD.</p>
+            <p>However, ſince, Bleſſed be GOD, (though as Men born Blind, cannot, by the beſt Deſcriptions, be made
+<pb n="73" facs="tcp:34990:42"/>truly ſenſible of the Diffe<g ref="char:EOLhyphen"/>rence of Colours, or the Comforts of Sight, no one in a wicked State can taſte the Pleaſures of Reſigning to GOD) All Men may con<g ref="char:EOLhyphen"/>form, if they will, I ſhall now, I ſay [having per<g ref="char:EOLhyphen"/>ſuaded from thence] uſe my utmoſt Endeavour, we may, in ſome meaſure, conceive what I promis'd you ſhould, to excite thereto.</p>
+            <p>Thoſe Happy People then,<note place="margin">Sect. <hi>27.</hi>
+               </note> who are ſo united to their <hi>GOD</hi> of Love, (though not able to enjoy a full Fruition of HIM Below,) have their Eyes ſo fix'd by Contempla<g ref="char:EOLhyphen"/>tion
+<pb n="74" facs="tcp:34990:43"/>(that excellent Vehicle of the Mind, by which, like <hi>Moſes</hi> in the Mount,<note place="margin">Exod. 34.29, 30, <hi>&amp;c.</hi>
+               </note> by an aſſiduous Converſe with <hi>God,</hi> it acquires a Laſting Lumi<g ref="char:EOLhyphen"/>nouſneſs) on their Future<note n="*" place="margin">Thoſe <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, whereof who can here con<g ref="char:EOLhyphen"/>ceive?</note> State, [where they will be perpetually ſwallow'd up in the perfect Compre<g ref="char:EOLhyphen"/>henſions of <hi>GOD,</hi> and inceſ<g ref="char:EOLhyphen"/>ſantly, for ever, be ſupreme<g ref="char:EOLhyphen"/>ly Raviſh'd with the incon<g ref="char:EOLhyphen"/>ceivable Glories of His Di<g ref="char:EOLhyphen"/>vine and Superlative Beau<g ref="char:EOLhyphen"/>ty,] (that in their Voyage here to Heaven, (tho' they are Naturally frail as we, they are <hi>ſo</hi> pleas'd therewith) that the greateſt Excellencies here on Earth can at no time
+<pb n="75" facs="tcp:34990:43"/>make 'em glance aſide from that mighty Object of their Faith; but on it, with as much Intenſion their Eyes remain,<note place="margin">Ye men of Gallilee, <hi>&amp;c.</hi>
+               </note> as Chriſt's Diſciples on their Aſcending Saviour did, who were diverted there<g ref="char:EOLhyphen"/>from, neither by the Pre<g ref="char:EOLhyphen"/>ſence nor Reproof of even ANGELS themſelves.</p>
+            <p>Thoſe Bleſſed Perſons do poſſeſs their Souls in Peace; They ſhall not be afraid of Evil Tydings;<note place="margin">Pſal. <hi>&amp;c.</hi>
+               </note> for their Hearts are fix'd, and they enjoy the Contentments of an innocent Piety; are ſweet<g ref="char:EOLhyphen"/>ly bedew'd with the Influ<g ref="char:EOLhyphen"/>ences of the Holy Spirit, and the Tranſports which
+<pb n="76" facs="tcp:34990:44"/>ſhoot abroad in their Qua<g ref="char:EOLhyphen"/>lify'd Minds.</p>
+            <p>They are only troubl'd that they cannot Love <hi>GOD</hi> more, and are unable to con<g ref="char:EOLhyphen"/>tribute ſomething to the Happineſs of HIM that is <hi>ſo</hi> Good to <hi>All.</hi> It grieves them, indeed, to find them<g ref="char:EOLhyphen"/>ſelves reduc'd to be only Paſſive, and Receivers in the Commerce; but whereas they know HE has All things at Command, and is in<note n="(a)" place="bottom">The Divine Nature [as the Epicurean <hi>Lu<g ref="char:EOLhyphen"/>cretius</hi> could own] is <hi>Privata dolore omni, privata periclis. Ipſa ſuis pollens opibus,</hi> &amp;c.</note> HIMSELF Supremely Happy, their Concern is turn'd into Joy, and they
+<pb n="77" facs="tcp:34990:44"/>breathe out their Souls in ſuch following Strains of the Holy St. <hi>Auguſtin,</hi> (till their Corruption has put on Incor<g ref="char:EOLhyphen"/>ruption, till they are launch'd into the Ocean of Eternity, and they<note n="(a)" place="bottom">Putas qualis TUNC erit ſplendor Animarum, quando Solis Claritatem habebit Lux Corporum! <hi>Aug. Ser. 12. in Verb. Apoſt.</hi>
+               </note> 
+               <hi>ſhine</hi> like the Sun in the Firmament Above, when they are ſurrounded with the GLORY of <hi>GOD,</hi> and will fully Hear and En<g ref="char:EOLhyphen"/>joy thoſe<note n="(b)" place="bottom">Semper omnibus in mentem veniat HAEC Aeterna faelicitas de cujus Excellentia ſi omnia dicta fuerint quibus omnium Hominum linguae ſufficiant vix tamen infima ejus particula delibata fuerit. <hi>Calv. Inſtit. l. 4. c. 25.</hi>
+               </note> Pleaſant Things which <hi>Eye has not ſeen,</hi>
+               <note place="margin">1 Cor. 2.9</note> 
+               <hi>nor
+<pb n="78" facs="tcp:34990:45"/>Far heard, neither have enter'd into the Heart of Man to con<g ref="char:EOLhyphen"/>ceive.)</hi>
+            </p>
+            <p>
+               <note n="*" place="margin">
+                  <hi>S.</hi> Auguſt. Med. <hi>Lat.</hi>
+               </note> O <hi>Lord!</hi>
+               <note place="margin">Sect. <hi>28.</hi>
+               </note> thou King of Saints, theſe mighty Goods are the Rewards of thoſe that Pant for THEE, Thou Hope of him that ſaints! Thou Comfort of the Help<g ref="char:EOLhyphen"/>leſs Man! Thou Crown of Glory for the Conqueror! and Everlaſting Satisfaction for the Man that will Deny himſelf for THEE!</p>
+            <p>When I conſider how Un<g ref="char:EOLhyphen"/>reaſonable it is for us to look for Heaven, who take De<g ref="char:EOLhyphen"/>light in All on Earth, my Soul refuſes Comfort here
+<pb n="79" facs="tcp:34990:45"/>Below, [my Deareſt <hi>GOD!</hi>] that I may live with <hi>Thee!</hi>
+            </p>
+            <p>O Gracious Father, help me to contemn theſe worldly Toys! Make all things taſte to me like Gall, but Thee, thou Everlaſting, Only, Plea<g ref="char:EOLhyphen"/>fant Good! whoſe Preſence made the <hi>holy Stephen</hi> eſtimate thoſe Stones by which he dy'd, as ſweet: For whom St. <hi>Law<g ref="char:EOLhyphen"/>rence</hi> willingly expir'd upon the burning Coals; and the Apoſtles from the Counſel of the Jews departed,<note place="margin">Act. 5.41.</note> greatly pleas'd that they were wor<g ref="char:EOLhyphen"/>thy to endure Reproach for Thee. St. <hi>Andrew</hi> joyfully was crucify'd, becauſe he'd haſte to Thee. Therefore,
+<pb n="80" facs="tcp:34990:46"/>the Chief of Thy Apoſtles choſe the Croſs; the other lov'd the Axe. St. <hi>Bartholomew,</hi> enamour'd of thy Beauty, wil<g ref="char:EOLhyphen"/>lingly was Flea'd alive: And <hi>John,</hi> diſdaining Death, drank up the Poyſon'd Draught immediately. When <hi>Peter</hi> taſted Thee, forgetting all inferiour Things, like one beſide himſelf, acknowledg'd to be There, was good; and talk'd of Making Tents for Thoſe Above, that he might view Thee ſtill! — A Sight of Thee, O <hi>Lord,</hi> creates Delights ineffable! —When <hi>Peter</hi> was made ſenſible of Thee, how he contemn'd all other Things?
+<pb n="81" facs="tcp:34990:46"/>— But, Oh! had he but ſeen THEE as THOU art, or thoſe Great Things Thou haſt laid up for Deficated Souls, what wou'd he then have ſaid! —Surely <hi>he</hi> taſted of that Spring of Life, who, in an Ecſtaſie, exclaims, <hi>Oh! how Great is that Good<g ref="char:EOLhyphen"/>neſs which Thou hast laid up for them which Fear THEE!</hi> — And ſo had <hi>he</hi> who paſ<g ref="char:EOLhyphen"/>ſionately ſaid, <hi>Oh! taſte and ſee how Good the LORD is!</hi> — In Hopes of this my Maker, <hi>GOD,</hi> we always are at War: For THEE we're Killed every Day, that We may Live with THEE!</p>
+            <pb n="82" facs="tcp:34990:47"/>
+            <p>
+               <hi>Again:</hi>
+            </p>
+            <p>I am in Love with <hi>Thee,</hi>
+               <note place="margin">Sect. <hi>29.</hi>
+               </note> my Deareſt <hi>GOD!</hi> and ve<g ref="char:EOLhyphen"/>hemently Long to Love <hi>Thee</hi> more and more; for truly, <hi>LORD,</hi> Thou'rt Sweeter than the Honey<g ref="char:EOLhyphen"/>comb; more Nouriſhing than any thing that is, and more Reſplendant than the glorious Sun; and therefore all the pureſt Gold the World contains, the fineſt Silver, and moſt precious Gemms, I value leſs than Nothing, in reſpect of <hi>Thee!</hi> — Now I am Raviſh'd with Thy Excellence, and Thoughts of the Sublime Delights the
+<pb n="83" facs="tcp:34990:47"/>Beauty of Thy Palace will Tranſport Me with. — Oh, how I ſcorn theſe coun<g ref="char:EOLhyphen"/>terfeit, deſtroying, greateſt Goods Below! — Oh, Ever<g ref="char:EOLhyphen"/>laſting Mighty Flame of Love! Inflame Me, yea, Inflame Me wholly with a Perfect Love of <hi>Thee!</hi> — Oh, wretched is that Man, unleſs he loves the Creatures, purely for Thy ſake! — Oh, that I could but Love <hi>Thee</hi> as I would, becauſe Thou lov'ſt me firſt! — Can Men or Angels juſtly Praiſe the <hi>LORD?</hi> or any thing declare Thy mighty Love to Me! — <hi>Thou,</hi> out of Nothing, madeſt Me
+<pb n="84" facs="tcp:34990:48"/>much above the Senſible and Things Inanimate, a little lower than Angelical Ex<g ref="char:EOLhyphen"/>iſtences, after Thine Own Incomparable Form, and breathed in Me Thy Breath, my SOUL; created'ſt All Things for my Uſe, and ſtill continueſt (though I've often forfeited) my Life, that I might come to <hi>Thee!</hi>
+            </p>
+            <p>
+               <hi>Again:</hi>
+            </p>
+            <p>How Happy is that Soul that's once let free!<note place="margin">Sect. <hi>30.</hi>
+               </note> that's out of Priſon, rid of that de<g ref="char:EOLhyphen"/>preſſing Load, its Body! — ſwifter than Thought, 't would fly, and pierce the Clouds, but to be link'd to
+<pb n="85" facs="tcp:34990:48"/>
+               <hi>Thee!</hi> — where She would eagerly for ever <hi>Gaze</hi> on <hi>Thy</hi> Tranſporting Beauty, <hi>LORD</hi> of Lords! where She would over-look the Raviſh'd Che<g ref="char:EOLhyphen"/>rubims as they are paſſio<g ref="char:EOLhyphen"/>nately ſinging HALELUJAH's to the <hi>GOD</hi> of <hi>LOVE!</hi> and joyn in Conſort with the Mighty Hoſt, till She's In<g ref="char:EOLhyphen"/>toxicated with the Glories of the Place, the Pleaſant Odours, and Tranſporting Sounds rebounding in the Vaſt Celeſtial Courts, in Praiſe of <hi>THEE,</hi> O <hi>GOD</hi> of <hi>JES<g ref="char:V">Ʋ</g>,</hi> Saviour of the World! — O Bleſſed! Bleſſed are the Citizens of Heaven Above! How the
+<pb n="86" facs="tcp:34990:49"/>Communion of Saints would Comfort me! There we ſhould think what Troubles we endur'd on Earth, but how Rewarded Now, where we ſhall never be offended more! What Inſtruments! What Anthems! What Di<g ref="char:EOLhyphen"/>vine Melodious Compoſi<g ref="char:EOLhyphen"/>tions of the Heavenly Sym<g ref="char:EOLhyphen"/>phoniſts will THERE be ever heard! [And, Oh! how Charming do the An<g ref="char:EOLhyphen"/>gels look, whilſt They are Raviſh'd with their Object, <hi>GOD!</hi>]</p>
+            <p>There is no Want, no Shame, no Diſcontent, no Need of Pardon, Fear or Puniſhment: But There is
+<pb n="87" facs="tcp:34990:49"/>Perfect Peace, and Love, and Joy; for there is GOD, Reſt, Everlaſting Satisfaction in the <hi>Holy Ghost!</hi> — Oh! that I could but hear the Angels Antiphones to HIM! But more than Happy ſhould I be, if I could chant forth one of thoſe Exhilerating Songs of <hi>Sion</hi> to the <hi>LORD!</hi> — Oh! that the Time was come, when I might ſo em<g ref="char:EOLhyphen"/>ploy my ſelf!</p>
+            <p>
+               <hi>Again:</hi>
+            </p>
+            <p>Moſt Merciful Endearing Father, <hi>GOD!</hi>
+               <note place="margin">Sect. <hi>31.</hi>
+               </note> who haſt ſo Loved, ſo Enlighten'd, ſo Exalted Us, how Sweet are Thoughts of <hi>Thee!</hi> —
+<pb n="88" facs="tcp:34990:50"/>The more I do Contemplate <hi>Thee,</hi> the Sweeter and the more Admirable <hi>Thou</hi> art to Me! and therefore I do love to often Think on <hi>Thee!</hi> inceſſantly deſire to See Thy Beauty in this Vail of Tears, and be Belov'd by <hi>Thee!</hi>
+            </p>
+            <p>O <hi>Lord,</hi> Thou haſt In<g ref="char:EOLhyphen"/>flam'd Me, and I Burn! I greatly Long to come and be with <hi>Thee!</hi> I am beſide my ſelf, almoſt, with vehe<g ref="char:EOLhyphen"/>ment Deſire to See Thy Face! — I am reſolv'd to ſtand upon my Guard, to keep my ſelf awake, and always ſing away the Time in Praiſe, in Praiſe of <hi>Thee!</hi>— I'll pierce the Skyes with my
+<pb n="89" facs="tcp:34990:50"/>Entreaties, and will fancy I am with <hi>Thee</hi> Now! On<g ref="char:EOLhyphen"/>ly my Body, then, can be in Pain, my Heart is with my Dear Beloved Treaſure there Above!</p>
+            <p>But, <hi>Lord,</hi> I am Diſſatiſ<g ref="char:EOLhyphen"/>fy'd, I cannot Compre<g ref="char:EOLhyphen"/>hend <hi>Thee,</hi> by my deepeſt Thoughts, aright! Thine Honour, Thy Divine Re<g ref="char:EOLhyphen"/>ſplendency, Thy Might, Thy Glory and Thy Ma<g ref="char:EOLhyphen"/>jeſty, Thy Goodneſs and Thy Mercy! — every thing of <hi>Thee</hi> exceeds the Higheſt Intellect!</p>
+            <p>
+               <hi>Again:</hi>
+            </p>
+            <p>My Soul!<note place="margin">Sect. <hi>32.</hi>
+               </note> were we to ſuf<g ref="char:EOLhyphen"/>fer
+<pb n="90" facs="tcp:34990:51"/>daily Torments here on Earth; nay, were we for ſome Ages to endure the Fire of Hell, that we might ſee at laſt <hi>Christ Jeſus,</hi> and the Glory of the <hi>Lord,</hi> that we might be among the Saints at Reſt, with what Content we ſhould accept of All!</p>
+            <p>Let Hell, or all the Devils in it, do their worſt then, to me here: What tho' I'm Tempted, almoſt Starv'd for Want, Naked, con<g ref="char:EOLhyphen"/>ſtrain'd to Labour with my Hands, or Beg; if I can never Sleep, am always Sick, and all the World Abuſe me; I ſhall ſee my God; and
+<pb n="91" facs="tcp:34990:51"/>
+               <hi>then</hi> ſhall ſhine with Ever<g ref="char:EOLhyphen"/>laſting Light, when HE has made His <hi>Jewels</hi> up, to be with Him in Endleſs Joy!</p>
+            <p>
+               <hi>Again:</hi>
+            </p>
+            <p>My Conſcience tells me,<note place="margin">Sect. <hi>33.</hi>
+               </note> 
+               <hi>Lord,</hi> that I have ſinn'd exceedingly; but yet I don't Deſpair: For though my Crimes abounded, GRACE aboundeth more. — That Miſerable Man that fears he never ſhall be Pardon'd, does deny that <hi>GOD</hi> is Merciful, ſo wrongs the Holy One. The Father of the Univerſe is Love, is Powerful, is Truth; ſo that I faint not,
+<pb n="92" facs="tcp:34990:52"/>though I went aſtray. — I doubt not of his Love, but He'll accept of Me; nor of His Truth, but He will keep his Word; nor of His Power, but He can Re<g ref="char:EOLhyphen"/>deem. — Sometimes the Enemy, indeed, will make me queſtion, Why, but what am I, that I ſhould look for ſuch a Happineſs as Heaven? Why ſhould I hope for what I never yet deſerv'd? But I have thought again, I know in whom I Truſt: <hi>GOD</hi> has adopted me his Son; His Promiſes are ſtedfaſt, He can never change, and is Omnipotent. I am not terrify'd with a
+<pb n="93" facs="tcp:34990:52"/>Reflexion on my Wicked Life, when I conſider, that <hi>Christ Jeſus</hi> dy'd to ſave ſuch Men as I: — Surely, my Sins do not exceed his Sufferings; the Nails by which He hung upon the Croſs, the Spear that pierced his Bleſſed Side, cry out to me, Fear not; if you will Love the Father, he is throughly Reconciled to you: <hi>Lon<g ref="char:EOLhyphen"/>ginus</hi> Open'd me a Way to Satisfaction, by the Wound He made. — <hi>O yee of little Faith;</hi> But, <hi>Love the Lord!</hi> Love turneth Fear away. — Chriſt ſtretched out His Arms upon the Croſs, to ſigniſie, He's ready to
+<pb n="94" facs="tcp:34990:53"/>Embrace Returning Prodi<g ref="char:EOLhyphen"/>gals. —</p>
+            <p>
+               <hi>Again:</hi>
+            </p>
+            <p>Oh,<note place="margin">Sect. <hi>34.</hi>
+               </note> Thou Incomprehen<g ref="char:EOLhyphen"/>ſible, Eternal Source of Good! let Thy Abundant Mercy flow on me! — Rouze up, my Soul! un<g ref="char:EOLhyphen"/>cloud thy ſelf, and with thy utmoſt Underſtanding la<g ref="char:EOLhyphen"/>bour to Contemplate what a Sea of All-ſufficiency [how Beautiful and Happy] is the <hi>LORD!</hi> If every ſeveral Thing be ſo Delectable, how Pleaſant! how Delightful! certainly, is <hi>That</hi> Almighty Being, <hi>God!</hi> which in Him<g ref="char:EOLhyphen"/>ſelf enjoys the QUINT<g ref="char:EOLhyphen"/>ESSENCE
+<pb n="95" facs="tcp:34990:53"/>of every Real GOOD! If Crea<g ref="char:EOLhyphen"/>tures are ſo Charming, <hi>Lord!</hi> what Mortal can endure a Sight of <hi>THEE,</hi> and not be melted down! <hi>THO<g ref="char:V">Ʋ</g>
+               </hi> Maker of ALL Things. —</p>
+            <p>Oh! <hi>Philomuſe!</hi> — the Rays of the Divinity do now break in upon my Soul, — I ſtagger, — and have loſt my ſelf; — I only can ſpare Time to ask you — If the Spouſe's Bowels were ſo mov'd, when <hi>CHRIST,</hi>
+            </p>
+            <p>
+               <hi>Si Momentanea DEI viſio tantùm potuit apportare laetitiae cumulum; Quid potuit viſio EJUS Aeterna?</hi> Gerhar. <hi>Med.</hi> 48.
+<pb n="96" facs="tcp:34990:54"/>her Lover, did but put his Hand (here) thorough the Hole within the Door; how will her Soul be Raviſh'd, when ſhe ſees HIM as HE is, throughly, at once, with<g ref="char:EOLhyphen"/>out a Prejudicial Vail be<g ref="char:EOLhyphen"/>tween, in that Celeſtial Pa<g ref="char:EOLhyphen"/>radiſe of <hi>GOD!</hi> — Think not, Oh, Think not more of theſe Deluſive Joys on Earth! Immediately Reſign, and be with <hi>GOD!</hi> — There you ſhall hear <hi>not</hi> thoſe Harmonious Flouriſhes from Inſtruments play'd on by Men, which us'd to <hi>ſo</hi> Tran<g ref="char:EOLhyphen"/>ſport you from your <hi>Self</hi> on Earth, but Finer, much
+<pb n="97" facs="tcp:34990:54"/>beyond Conception, — An<g ref="char:EOLhyphen"/>gels Compoſitions for the <hi>KING</hi> of Kings, the <hi>GOD</hi> of Melody! Exceding what we can expect ſhould ebri<g ref="char:EOLhyphen"/>ate the Perfectneſs of Be<g ref="char:EOLhyphen"/>ings, SAINTS Above!</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</signed>
+               <dateline>(<hi>M. Coll.</hi> 
+                  <date>Octob. 3. 1694.</date> 
+                  <hi>Oxford.</hi>) [Ae. M. 18.]</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <pb facs="tcp:34990:55"/>
+            <pb n="1" facs="tcp:34990:55"/>
+            <head>AN APPENDIX.</head>
+            <p>BY what has been ſaid, we find it truly Reaſonable that, even for our own ſakes we ſet not our Affections too much on Things Be<g ref="char:EOLhyphen"/>low, but Reſign up our Wills to the Will of GOD, for thereby we ſhall in THIS Life be Bleſs'd with that PEACE which the World cannot give, and may be infallibly aſſur'd that we ſhall perfectly enjoy the Su<g ref="char:EOLhyphen"/>perlative <hi>Good</hi> in HEAVEN. HEAVEN! a Compoſition of ſuch Eternal Charms as are beyond the Skill of ANGELS to Expreſs! to
+<pb n="2" facs="tcp:34990:56"/>Men? nay ONE ANOTHER per<g ref="char:EOLhyphen"/>fectly, thô they are moſt Intelligent! HEAVEN! a Place of Ecſtacy ſo great, as yields us every Real Good but Tongues to tell our Joys! — We are ſo full of them! HEAVEN! I ſay! at which when we are once arriv'd, we ſhall not ſo much as fancy 'mongſt our then tranſporting Plea<g ref="char:EOLhyphen"/>ſures, that 'tis HEAVEN's the Seat of Them! ſo far our NOBLEST Thoughts of IT on Earth fell ſhort of what we ſee!</p>
+            <p>Now, The Way by which we may conſorm our Wills to the Will of GOD, is by having an Humble and True Opinion of our own No<g ref="char:EOLhyphen"/>thingneſs compar'd with the uncon<g ref="char:EOLhyphen"/>ceivable Majeſty of Almighty GOD which may reſtrain us from every Sin.</p>
+            <pb n="3" facs="tcp:34990:56"/>
+            <p>That we might Thus think of our ſelves, was the Deſign of ſome part of the METHOD in the for<g ref="char:EOLhyphen"/>mer Diſcourſe, yet the Queſtion ſtill is HOW, after we have this Hum<g ref="char:EOLhyphen"/>ble Opinion of our ſelves, we may be perfect in our Reſignation to GOD as much as Mortality can without Danger of Revolt? or, How a Habit of Sin may be perfe<g ref="char:EOLhyphen"/>ctly Broken?</p>
+            <p>In general then, and to be very Brief, according to St. <hi>Paul</hi>'s Ad<g ref="char:EOLhyphen"/>vice, and the Opinion of the Church. By a conſtant Mortification of our ſelves. By always denying our ſelves principally that Evil to which we ſeem moſt enclin'd. By ever avoiding the Incentives to Vice, Evil Con<g ref="char:EOLhyphen"/>verſation, and Exceſs in the Neceſ<g ref="char:EOLhyphen"/>ſaries
+<pb n="4" facs="tcp:34990:57"/>or Reaſonable Diverſions of this Life. Or thus: By living only in perpetual Temperance: Contem<g ref="char:EOLhyphen"/>plative, according to the Excellent Example of the Holy JESUS and the incomparable Rules which GOD's Wiſdom in the Scriptures Enjoyn'd.</p>
+            <p>Without Theſe, we may in vain talk of the Folly of Vice, and in<g ref="char:EOLhyphen"/>veigh againſt the Licentious Man! The next new Aſſault like a Torrent over whelms OUR Senſe, and WE are Born away from our Uſe of Reaſon, with the tempting Cheat!</p>
+            <p>I heartily wiſh we would all live Thus: Certainly we ſhould not on<g ref="char:EOLhyphen"/>ly be freer from corporal Pains, but thoſe frettings of the Soul which at<g ref="char:EOLhyphen"/>tend a leſs heedful Life. We ſhould be deliver'd from that Curſe of God:
+<pb n="5" facs="tcp:34990:57"/>which cuts us off e'er half our days are ſpent, and be made happy with thoſe inward mighty JOYS I ſo often mention. That PEACE which Exceeds the greateſt Pleaſure from the ſtrongeſt and moſt lofty Lines of Senſe! more charming than the moſt Exalted Raviſhments of the fineſt Strains! Nay! than the Comforts of Friendſhip in Perfecti<g ref="char:EOLhyphen"/>on! A PEACE—? —Ineffable!</p>
+            <closer>
+               <signed>B. Pratt.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:34990:58"/>
+            <p>
+               <hi>Reader,</hi> The Author not being conſulted 'till too late, ſome literal Faults and Miſ<g ref="char:EOLhyphen"/>pointings have ſtill eſcaped ſight, which you are deſired to cenſure friendly, and with theſe correct</p>
+            <p>
+               <hi>EPiſt. Ded. p. 2. l. 3. r.</hi> have. <hi>p. 26 l. 9. for</hi> its <hi>r.</hi> their. <hi>ibid. l. 10. r.</hi> reſent. <hi>p. 61. for</hi> perfect Ens. <hi>r.</hi> compleateſt Being. <hi>p. 34. by the word</hi> FAIR <hi>in the margin, r.</hi> GOD. <hi>p. 60. l. 11. r.</hi> Seirem. <hi>p. 70. l. 6. r.</hi> qu que. <hi>p. 85. l. 17. r.</hi> O! <hi>p. 95. l. 17. r.</hi> poterit. <hi>p. 96. l. 2. for</hi> through <hi>r.</hi> by. <hi>p. 97. l. 6. r.</hi> PERFECTEST. <hi>in poſt. p. 6. l. 8. after</hi> contemn <hi>r.</hi> and want it not.</p>
+            <p>* <hi>Dele [s]</hi> ſuperfluous at the ends of Words, and contract others for their better ſound.</p>
+            <p>* <hi>Theſe</hi> Crotchets [] <hi>are us'd here as they ought; <hi>i. e.</hi> when the Senſe is particularly to be obſerv'd.</hi>
+            </p>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:34990:58"/>
+            <head>
+               <hi>THE</hi> POSTSCRIPT.</head>
+            <p>A <hi>LETTER</hi> from, and its <hi>ANSWER</hi> to a <hi>Critick</hi> who perus'd the Written Copy of this Book, with<g ref="char:EOLhyphen"/>out the Author's Know<g ref="char:EOLhyphen"/>ledge, through the Gen<g ref="char:EOLhyphen"/>tleman's Pleaſure to whoſe Care the Impreſſion was conſign'd. They are <hi>both</hi> as follows:</p>
+            <pb facs="tcp:34990:59"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>Mr.</hi> P—tt,</salute>
+                  </opener>
+                  <p>MY Knowledge of YOU, was the Reaſon I Importun'd and Prevail'd with the Un<g ref="char:EOLhyphen"/>willing Mr. <hi>M.</hi> for a Sight of the Book you were about to Print. — I tell you, Sir, you are a Gentleman, indeed, of an Admir'd Life, Ingenuity and Language, but not well acquainted with the World, or a Lady's Humour yet:
+<pb facs="tcp:34990:59"/>All the Sex love to be [tho' they know they are] <hi>Flat<g ref="char:EOLhyphen"/>ter'd,</hi> and I never heard of one yet, who was above an <hi>Encomium</hi> from You — I Diſlike too that Expreſ<g ref="char:EOLhyphen"/>ſion in your Proem to the Piece. viz. <hi>You ſhall not value the Cenſure of Men:</hi> — You ſhould Va<g ref="char:EOLhyphen"/>lue <hi>All</hi> that Good Men ſay, and I wiſh you had been Plainer on a Thought or two in this Pretty Work; I cannot comprehend them well at first.</p>
+                  <pb facs="tcp:34990:60"/>
+                  <p>Pardon (if it be need<g ref="char:EOLhyphen"/>ful) this Effect of a Haſty Survey; I had the Copy but a Night, and could not have an Opportunity to interrupt you in time, be<g ref="char:EOLhyphen"/>fore now I am leaſt pre<g ref="char:EOLhyphen"/>par'd.</p>
+                  <closer>
+                     <signed>
+                        <hi>I am, Truly Your's,</hi> —L' S.</signed>
+                     <dateline>Sion Coll. <date>
+                           <hi>Lond. 94/5.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:34990:60"/>
+            <head>The Author's Anſwer.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi rend="margQuotes">I Thank you for your Laſt: I never yet ſaw a Book ſo Excellent, but by an <hi>Hypercritick</hi> [ſuch as you] it might be Cavil'd at. You expected not, ſure, to ſee <hi>Mine</hi> without Fault. —</hi>
+            </p>
+            <p>
+               <hi rend="margQuotes">As to your particular <hi>Objections,</hi> I tell you, Sir, firſt, [with leave,] you're Miſtaken: There are ſome of the Female Sex to whom <hi>Flattery</hi> is as Nauſeous as
+<pb facs="tcp:34990:61"/>it would be to you, or that Expreſſion of your's to moſt of them, who Value themſelves only on their own Deſerts, and are a<g ref="char:EOLhyphen"/>bove an <hi>Encomium,</hi> though from you your ſelf; for they Contemn it, (as you may know, if you pleaſe.)</hi>
+            </p>
+            <p>
+               <hi rend="margQuotes">You tell me, in your Poſtſcript, you <hi>ſurvey'd the Book in Haſte:</hi> I Be<g ref="char:EOLhyphen"/>lieve you, [ſo do moſt of Your Excellent Parts:] I'm ſure, had you deli<g ref="char:EOLhyphen"/>berately perus'd the<note n="*" place="margin">Pag. <hi>3.</hi>
+                  </note> Ex<g ref="char:EOLhyphen"/>preſſion <hi>[I think I ſhall not be ſo vain, to value the Cenſures of All,]</hi> and
+<pb facs="tcp:34990:61"/>conſider'd then, <hi>that</hi> in the <hi>Epiſtle</hi> to the <hi>Worthy Reader,</hi> [<hi>I deſire</hi> Their <hi>Friendly Cenſure thereon,</hi>] you would not therefore have found Reaſon to Diſ<g ref="char:EOLhyphen"/>like, or from thence con<g ref="char:EOLhyphen"/>clude, I contemn'd the Cen<g ref="char:EOLhyphen"/>ſures of the <hi>Good.</hi>
+               </hi>
+            </p>
+            <p>
+               <hi rend="margQuotes">I referr you to the <hi>Preface</hi> next; (let what has already been ſaid, ſuffice for this Manual here.) — Thoſe <hi>Thoughts</hi> you complain of, may with Eaſe be under<g ref="char:EOLhyphen"/>ſtood by Conſidering Men: If it had pleas'd you to ſuſpend Reflexion till you had read them a ſecond
+<pb facs="tcp:34990:62"/>time, you had been better prepar'd to judge, and needed not to ask Pardon of Obliging,</hi>
+            </p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>
+                  <hi>Your Servant to Command,</hi> — P—tt.</signed>
+               <dateline>Oxford, <date>
+                     <hi>Jan.</hi> 21. 1694/5.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:34990:62"/>
+            <head>READER, Theſe follow<g ref="char:EOLhyphen"/>ing Faults have eſcap'd the Preſs.</head>
+            <p>IN the <hi>Epiſt. Ded.</hi> page 2. line 12. read <hi>have:</hi> p. 15. l. 17. r. <hi>through:</hi> p. 38. l. 2. r. <hi>couclude:</hi> p. 42. l. 11. after <hi>pleaſe</hi> a period, no point after <hi>Commands</hi> in l. 2: p 53. l. 7. r. <hi>Inef<g ref="char:EOLhyphen"/>fable:</hi> p. 56. l. 3. a Colon after <hi>Great,</hi> no point after <hi>God:</hi> p. 60. l. 11. r. <hi>ſcie<g ref="char:EOLhyphen"/>rem:</hi> p. 80. l. 7. a period after <hi>Draught,</hi> no point after <hi>immediately</hi> in l. 8: p. 81. l. 2. put a comma after <hi>THEE:</hi> p. 85. l. 17. r. <hi>O! JESU!</hi>
+            </p>
+            <pb facs="tcp:34990:63"/>
+         </div>
+      </back>
+   </text>
+</TEI>
